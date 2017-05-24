@@ -1,7 +1,5 @@
 ## Open Projects for DataMeet Pune chapter
----
-title: Open Projects for DataMeet Pune chapter
----
+
 Jump in!
 
 ### [<img class="alignright size-medium wp-image-67" src="http://nikhilvj.cu.cc/wp-content/uploads/2017/04/bus-stops-swargate-300x152.jpg" alt="" width="300" height="152" srcset="http://nikhilvj.cu.cc/wp-content/uploads/2017/04/bus-stops-swargate-300x152.jpg 300w, http://nikhilvj.cu.cc/wp-content/uploads/2017/04/bus-stops-swargate-768x390.jpg 768w, http://nikhilvj.cu.cc/wp-content/uploads/2017/04/bus-stops-swargate.jpg 852w" sizes="(max-width: 300px) 100vw, 300px" />](http://nikhilvj.cu.cc/wp-content/uploads/2017/04/bus-stops-swargate.jpg)PMPML / bus / public transport related:
