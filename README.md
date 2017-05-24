@@ -2,13 +2,13 @@
 
 Jump in!
 
-### [<img class="alignright size-medium wp-image-67" src="http://nikhilvj.cu.cc/wp-content/uploads/2017/04/bus-stops-swargate-300x152.jpg" alt="" width="300" height="152" srcset="http://nikhilvj.cu.cc/wp-content/uploads/2017/04/bus-stops-swargate-300x152.jpg 300w, http://nikhilvj.cu.cc/wp-content/uploads/2017/04/bus-stops-swargate-768x390.jpg 768w, http://nikhilvj.cu.cc/wp-content/uploads/2017/04/bus-stops-swargate.jpg 852w" sizes="(max-width: 300px) 100vw, 300px" />](http://nikhilvj.cu.cc/wp-content/uploads/2017/04/bus-stops-swargate.jpg)PMPML / bus / public transport related:
+### [<img class="alignright size-medium wp-image-67" src="bus stops swargate.jpg" alt="" width="300" height="152" srcset="http://nikhilvj.cu.cc/wp-content/uploads/2017/04/bus-stops-swargate-300x152.jpg 300w, http://nikhilvj.cu.cc/wp-content/uploads/2017/04/bus-stops-swargate-768x390.jpg 768w, http://nikhilvj.cu.cc/wp-content/uploads/2017/04/bus-stops-swargate.jpg 852w" sizes="(max-width: 300px) 100vw, 300px" />](http://nikhilvj.cu.cc/wp-content/uploads/2017/04/bus-stops-swargate.jpg)PMPML / bus / public transport related:
 
   * **[Project working log : Pmpml bus stops](https://docs.google.com/document/d/12hRma83L1eHpVM7LV-e9MKhnbbCzpEJe5YISKs5eJmY/edit?usp=sharing)**
   * [project note : pmpml routes](https://docs.google.com/document/d/1ppcf8OiaCWQORqlL8d2gsbo3_6qAordjcow70djeFBk/edit?usp=sharing)
   * [project note : GTFS conversion program](https://docs.google.com/document/d/1XE3blI2zjY6el9voHYF6XtvKJV6m5xXxBjgNq3bYabc/edit?usp=sharing)
 
-### [<img class="alignright wp-image-70 size-medium" src="http://nikhilvj.cu.cc/wp-content/uploads/2017/04/punedistchoro-300x261.jpg" alt="" width="300" height="261" srcset="http://nikhilvj.cu.cc/wp-content/uploads/2017/04/punedistchoro-300x261.jpg 300w, http://nikhilvj.cu.cc/wp-content/uploads/2017/04/punedistchoro.jpg 612w" sizes="(max-width: 300px) 100vw, 300px" />](http://nikhilvj.cu.cc/wp-content/uploads/2017/04/punedistchoro.jpg)Maharashtra Villages mapping
+### [<img class="alignright wp-image-70 size-medium" src="punedistchoro.jpg" alt="" width="300" height="261" srcset="http://nikhilvj.cu.cc/wp-content/uploads/2017/04/punedistchoro-300x261.jpg 300w, http://nikhilvj.cu.cc/wp-content/uploads/2017/04/punedistchoro.jpg 612w" sizes="(max-width: 300px) 100vw, 300px" />](http://nikhilvj.cu.cc/wp-content/uploads/2017/04/punedistchoro.jpg)Maharashtra Villages mapping
 
   * [Write-up on the project](https://craigdsouza.github.io/village_mapping/)
   * [Tracking sheet](http://tinyurl.com/dmpune17916)
