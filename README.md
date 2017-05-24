@@ -2,13 +2,13 @@
 
 Jump in!
 
-### [<img align="right" src="bus%20stops%20swargate.jpg" alt="" width="300" height="152" />](bus%20stops%20swargate.jpg)PMPML / bus / public transport related:
+### [<img align="right" src="images/bus%20stops%20swargate.jpg" alt="" width="300" height="152" />](images/bus%20stops%20swargate.jpg)PMPML / bus / public transport related:
 
   * **[Project working log : Pmpml bus stops](https://docs.google.com/document/d/12hRma83L1eHpVM7LV-e9MKhnbbCzpEJe5YISKs5eJmY/edit?usp=sharing)**
   * [project note : pmpml routes](https://docs.google.com/document/d/1ppcf8OiaCWQORqlL8d2gsbo3_6qAordjcow70djeFBk/edit?usp=sharing)
   * [project note : GTFS conversion program](https://docs.google.com/document/d/1XE3blI2zjY6el9voHYF6XtvKJV6m5xXxBjgNq3bYabc/edit?usp=sharing)
 
-### [<img align="right" src="punedistchoro.jpg" alt="" width="300" height="261" />](punedistchoro.jpg)Maharashtra Villages mapping
+### [<img align="right" src="images/punedistchoro.jpg" alt="" width="300" height="261" />](images/punedistchoro.jpg)Maharashtra Villages mapping
 
   * [Write-up on the project](https://craigdsouza.github.io/village_mapping/)
   * [Tracking sheet](http://tinyurl.com/dmpune17916)
