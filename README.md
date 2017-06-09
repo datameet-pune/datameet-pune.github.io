@@ -25,12 +25,17 @@ Related : [IndiaWikiFiles](https://github.com/IndiaWikiFiles/Maharashtra) : Wik
   * Available data: 
       * [New wards boundaries (2017 onwards) digitized](https://gist.github.com/answerquest/db11b5c7be7e00765ae33152124aba1e)
       * [List of candidates contesting for 2017 civic (PMC) elections](https://gist.github.com/answerquest/0cfd125093f891c853befa12226eff79) (cleaned,  searchable)
+      * [List of corporators elected in 2017 civic (PMC) elections (serving 2017-22)](https://gist.github.com/datameet-pune/3ca3af1d528623c1bb7d99f8466868f0) (cleaned,  searchable)
       * [Composite map showing new and old boundaries and old corporators&#8217; details](https://nikhilvj.carto.com/viz/718f58d8-8e07-11e6-8015-0e3ff518bd15/embed_map)
   * Data wanted: 
       * Centroid or main chowk etc lat-long location of each ward, to have point-locations of wards
       * 2017-22 elected corporators listng (Marathi+English), details, photos
       * Admin ward allocation of the new 41 wards
       * Polling booth locations for 2017 municipal election
+
+### Pune Budget
+* Budget 2017-18 released in excel format:
+http://www.punecorporation.org/en/budget-2017-2018
 
 ### Pune Development Plan
 
