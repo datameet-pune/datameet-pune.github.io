@@ -100,3 +100,4 @@ Interested in working on any of this? Got a great project of your own and want t
   * Join the [all-India DataMeet mailing list](https://groups.google.com/forum/#!forum/datameet)
   * Join the [DataMeet slack network](http://datameet.org/wp-login.php?action=slack-invitation) and once in, join the #pune channel.
 
+This page is hosted on Github. [Check out the repo here.](https://github.com/datameet-pune/datameet-pune.github.io/)
