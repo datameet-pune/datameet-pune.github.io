@@ -96,7 +96,7 @@ Interested in working on any of this? Got a great project of your own and want t
   * [Fill out the interest form](https://docs.google.com/forms/d/e/1FAIpQLSfU-hxUyo7NPuvTTUFwy0J0F2iQn3a6r_5m8WlIoYQBpnTUjQ/viewform) for staying in the loop regarding pune meetups and activities
   * [Join us on Meetup.com](http://www.meetup.com/DataMeet-Pune/)
   * Contact us on email: pune [at] datameet.org 
-  * Text Nikhil on [+919665831250](intent://send/+919665831250#Intent;scheme=smsto;package=com.whatsapp;action=android.intent.action.SENDTO;end) and ask to be added to the pune whatsapp group
+  * Text Nikhil on [+919665831250](intent://send/+919665831250#Intent;scheme=smsto;package=com.whatsapp;action=android.intent.action.SENDTO;end) and ask to be added to the DataMeet Pune whatsapp group
   * Join the [all-India DataMeet mailing list](https://groups.google.com/forum/#!forum/datameet)
   * Join the [DataMeet slack network](http://datameet.org/wp-login.php?action=slack-invitation) and once in, join the #pune channel.
 
