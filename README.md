@@ -1,7 +1,18 @@
 ## Open Projects for DataMeet Pune chapter
 
-> Datameet is a volunteer group of civil society & programmers interested in data related issues relevant to the social sector. We work to improve the quality of public information/data on multiple issues such as public transport, education, city budgets, rural development etc. See <http://datameet.org> for more. 
-Jump in!
+Datameet is a volunteer group of civil society & programmers interested in data related issues relevant to the social sector. We work to improve the quality of public information/data on multiple issues such as public transport, education, city budgets, rural development etc. See <http://datameet.org> for more.
+
+On this page, we are attempting to bring together various open data projects that volunteers of DataMeet Pune chapter are working on, or want to work on. Along with the output, we want to document and openly share the work being done too, in a way that anyone interested can join in and take things forward.
+
+There are broadly three types of work we can do:
+
+ 1 | 2 | 3 
+--|--|--
+Bring socially relevant data out by collecting, listing, sharing about it | Digitize, curate, clean, convert the data to a better, more usable form | Visualize or otherwise apply the data 
+examples:||
+Linking to a PDF listing talukas published somewhere in a government website| Converting data published in a PDF to csv form, with flat tabular structure (ie, one header row, no merged cells)| Creating an online pan-and-zoom web-map showing the taluka boundaries overlaid on top of normal map layer
+
+## Projects
 
 ### [<img align="right" src="images/bus%20stops%20swargate.jpg" alt="" width="300" height="152" />](images/bus%20stops%20swargate.jpg)PMPML / bus / public transport related:
 
@@ -62,7 +73,7 @@ To do:
   * Cross-reference with 2011 census data to get village codes of the participating villages
   * Find shapes and/or lat-long locations from MH Villages shapefile
 
-### Others:
+## Others:
 
 To be detailed out. Here are some brief overview points: List of things we can work on:
 
@@ -91,7 +102,7 @@ To be detailed out. Here are some brief overview points: List of things we can 
 > Incentive : learner can publish an output of their learning, like a cleaned up dataset or a viz. This can be a valuable addition to their resume.
 
 
-### Pune Chapter
+## Pune Chapter
 Interested in working on any of this? Got a great project of your own and want to find collaborators / support? Want to work on one of these projects as your internship? Join in!
   * [Fill out the interest form](https://docs.google.com/forms/d/e/1FAIpQLSfU-hxUyo7NPuvTTUFwy0J0F2iQn3a6r_5m8WlIoYQBpnTUjQ/viewform) for staying in the loop regarding pune meetups and activities
   * [Join us on Meetup.com](http://www.meetup.com/DataMeet-Pune/)
