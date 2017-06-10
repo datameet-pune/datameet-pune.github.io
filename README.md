@@ -1,5 +1,6 @@
 ## Open Projects for DataMeet Pune chapter
 
+> Datameet is a volunteer group of civil society & programmers interested in data related issues relevant to the social sector. We work to improve the quality of public information/data on multiple issues such as public transport, education, city budgets, rural development etc. See <http://datameet.org> for more. 
 Jump in!
 
 ### [<img align="right" src="images/bus%20stops%20swargate.jpg" alt="" width="300" height="152" />](images/bus%20stops%20swargate.jpg)PMPML / bus / public transport related:
@@ -34,8 +35,8 @@ Related : [IndiaWikiFiles](https://github.com/IndiaWikiFiles/Maharashtra) : Wik
       * Polling booth locations for 2017 municipal election
 
 ### Pune Budget
-* Budget 2017-18 released in excel format:
-http://www.punecorporation.org/en/budget-2017-2018
+* Budget 2017-18 released in excel format: <http://www.punecorporation.org/en/budget-2017-2018>
+* See [work done](http://ourpuneourbudget.in/) on 2016-17 budget (data curation, visualization)
 
 ### Pune Development Plan
 
@@ -52,7 +53,7 @@ Latest draft DP released in March 2017. Inviting volunteers for &#8220;warping&
 
 ### Satyamey Jayate Water Cup 2017
 
-  * See http://paanifoundation.in/ and http://www.paanifoundation.in/en/get-involved/ for details.
+  * See <http://paanifoundation.in/> and [their Get Involved page](http://www.paanifoundation.in/en/get-involved/) for details.
   * [List of participating villages](http://bit.ly/villagenames) published by Paani Foundation
   * Curated [list of participating villages](https://drive.google.com/open?id=1SyIZ1xqaJk5TTF_LUWsYIdngia1gGho9PUrbs2KWwrw) : table with columns: region, district, taluka, village (marathi and english)
 
@@ -77,8 +78,7 @@ To be detailed out. Here are some brief overview points: List of things we can 
       * centroids of new wards (point locations)
       * rent, prices
 
-Learning:
-
+* Learning:
   * Python
   * R
   * javascript
@@ -90,17 +90,13 @@ Learning:
   
 > Incentive : learner can publish an output of their learning, like a cleaned up dataset or a viz. This can be a valuable addition to their resume.
 
-### Footnote
-
-What&#8217;s this about?? Here&#8217;s some context:
-
-> Datameet is a volunteer group of civil society & programmers interested in data related issues relevant to the social sector. We work to improve the quality of public information/data on multiple issues such as public transport, education, city budgets, rural development etc
-
-Check out : <http://datameet.org> for more. Interested in working together on any of this? Drop us an email on pune [at] datameet.org .
 
 ### Pune Chapter
-
+Interested in working on any of this? Got a great project of your own and want to find collaborators / support? Want to work on one of these projects as your internship? Join in!
   * [Fill out the interest form](https://docs.google.com/forms/d/e/1FAIpQLSfU-hxUyo7NPuvTTUFwy0J0F2iQn3a6r_5m8WlIoYQBpnTUjQ/viewform) for staying in the loop regarding pune meetups and activities
   * [Join us on Meetup.com](http://www.meetup.com/DataMeet-Pune/)
+  * Contact us on email: pune [at] datameet.org 
+  * Text Nikhil on [+919665831250](intent://send/+919665831250#Intent;scheme=smsto;package=com.whatsapp;action=android.intent.action.SENDTO;end) and ask to be added to the pune whatsapp group
+  * Join the [all-India DataMeet mailing list](https://groups.google.com/forum/#!forum/datameet)
+  * Join the [DataMeet slack network](http://datameet.org/wp-login.php?action=slack-invitation) and once in, join the #pune channel.
 
-&nbsp;
