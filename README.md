@@ -53,7 +53,8 @@ Latest draft DP released in March 2017. Inviting volunteers for &#8220;warping&
 ### Satyamey Jayate Water Cup 2017
 
   * See http://paanifoundation.in/ and http://www.paanifoundation.in/en/get-involved/ for details.
-  * [list of participating villages](https://drive.google.com/open?id=1SyIZ1xqaJk5TTF_LUWsYIdngia1gGho9PUrbs2KWwrw) : table with columns: region, district, taluka, village (marathi and english)
+  * [List of participating villages](http://bit.ly/villagenames) published by Paani Foundation
+  * Curated [list of participating villages](https://drive.google.com/open?id=1SyIZ1xqaJk5TTF_LUWsYIdngia1gGho9PUrbs2KWwrw) : table with columns: region, district, taluka, village (marathi and english)
 
 To do:
 
@@ -75,8 +76,6 @@ To be detailed out. Here are some brief overview points: List of things we can 
       * govt offices
       * centroids of new wards (point locations)
       * rent, prices
-      * overlaying development plan maps on web map
-  * pune 2017 civic body elections related data
 
 Learning:
 
@@ -87,9 +86,9 @@ Learning:
   * QGIS
   * machine learning, modelling, etc
 
-tip : learning happens quicker when there is real world data to work on.
+> Tip : learning happens quicker when there is real world data to work on.
   
-incentive : learner can publish an output of their learning, like a cleaned up dataset or a viz. This can be a valuable addition to their resume.
+> Incentive : learner can publish an output of their learning, like a cleaned up dataset or a viz. This can be a valuable addition to their resume.
 
 ### Footnote
 
