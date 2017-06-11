@@ -2,7 +2,7 @@
 
 Datameet is a volunteer group of civil society & programmers interested in data related issues relevant to the social sector. We work to improve the quality of public information/data on multiple issues such as public transport, education, city budgets, rural development etc. See <http://datameet.org> for more.
 
-On this page, we are attempting to bring together various open data projects that volunteers of DataMeet Pune chapter are working on, or want to work on. Along with the output, we want to document and openly share the work being done too, in a way that anyone interested can join in and take things forward.
+On this page, we are attempting to bring together various open data projects that volunteers of DataMeet Pune chapter are working on, or want to work on. Along with the output, we want to document and openly share the work being done as it's happening, in a way that anyone interested can join in and take things forward.
 
 There are broadly three types of work we can do:
 
@@ -10,7 +10,7 @@ There are broadly three types of work we can do:
 --|--|--
 Bring socially relevant data out by collecting, listing, sharing about it | Digitize, curate, clean, convert the data to a better, more usable form | Visualize or otherwise apply the data 
 examples:||
-Linking to a PDF listing talukas published somewhere in a government website| Converting data published in a PDF to csv form, with flat tabular structure (ie, one header row, no merged cells)| Creating an online pan-and-zoom web-map showing the taluka boundaries overlaid on top of normal map layer
+Linking to a PDF listing talukas published somewhere in a government website| Converting data published in a PDF to csv form, with flat tabular structure (ie, one header row, no merged cells)| Creating an online pan-and-zoom ("slippy") web-map showing the taluka boundaries overlaid on top of a normal map layer
 
 ## Projects
 
