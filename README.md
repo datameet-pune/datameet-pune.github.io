@@ -6,11 +6,11 @@ On this page, we are attempting to bring together various open data projects tha
 
 There are broadly three types of work we can do:
 
- 1 | 2 | 3 
+ 1 Collect | 2 Curate | 3 Apply 
 --|--|--
-Bring socially relevant data out by collecting, listing, sharing about it | Digitize, curate, clean, convert the data to a better, more usable form | Visualize or otherwise apply the data 
-examples:||
-Linking to a PDF listing talukas published somewhere in a government website| Converting data published in a PDF to csv form, with flat tabular structure (ie, one header row, no merged cells)| Creating an online pan-and-zoom ("slippy") web-map showing the taluka boundaries overlaid on top of a normal map layer
+Bring socially relevant data out by collecting, listing, sharing about it | Digitize, curate, clean, convert the data to a better, more usable form | Visualize or otherwise apply the data; combine with other dataset(s) 
+example:||
+<sub>[official PDF of Pune elected corporators 2017-22](https://pmc.gov.in/sites/default/files/winning_candidates.pdf)</sub> | <sub>[CSV table of the same](https://gist.github.com/datameet-pune/3ca3af1d528623c1bb7d99f8466868f0)</sub> | <sub>[Map of Pune showing which area has elected which corporators](https://nikhilvj.carto.com/viz/718f58d8-8e07-11e6-8015-0e3ff518bd15/embed_map)</sub>
 
 ## Projects
 
