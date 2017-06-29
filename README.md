@@ -111,4 +111,9 @@ Interested in working on any of this? Got a great project of your own and want t
   * Join the [all-India DataMeet mailing list](https://groups.google.com/forum/#!forum/datameet)
   * Join the [DataMeet slack network](http://datameet.org/wp-login.php?action=slack-invitation) and once in, join the #pune channel.
 
+## The Team
+Nikhil: Formerly in the IT sector, Nikhil has graduated from a degree-less alternative university where he self-designed his course with a community of learners from diverse backgrounds. He has multiple interests in technology, sustainability and democracy. His journey with open data started with a project with Centre for Environment Education and since then he has been involved with other voluntary projects and community initiatives. Having a presence in many networks and constantly cross-pollinating developments amongst them, he is keen to work on open data, while recognizing technology’s role as merely a tool and not an end, prioritizing simplicity and stakeholder empowerment.
+
+Craig Dsouza : Craig is a graduate with a Master’s in Environmental Policy from the University of Delaware and currently works at SOPPECOM, Pune in research on rural water related issues. His research involves a substantial amount of data analysis and field work related to agricultural water use, cropping patterns and hydrological data. This exploration drove his curiosity on the subject of data availability & data quality in the social sector in India and consequently to Datameet’s work. He believes grassroots citizen action (which is strengthened by open data and transparency) is the key to overcoming overwhelming challenges to the equitable management of water resources in India.
+
 This page is hosted on Github. [Check out the repo here.](https://github.com/datameet-pune/datameet-pune.github.io/)
