@@ -62,7 +62,7 @@ Latest draft DP released in March 2017. Inviting volunteers for &#8220;warping&
   * To do: assign lat-long co-ordinates to this list. [Google spreadsheet initiated here](https://docs.google.com/spreadsheets/d/1j3ix7Xj-HwnU9t6UJ7jXiCS2gWDnlwLkSpniEJLdYS4/edit?usp=sharing) for crowdsourcing locations.
   * Wanted: MSRTC routes and time tables.
 
-### Satyamey Jayate Water Cup 2017
+### Water Cup 2017 participating villages
 
   * See <http://paanifoundation.in/> and [their Get Involved page](http://www.paanifoundation.in/en/get-involved/) for details.
   * [List of participating villages](http://bit.ly/villagenames) published by Paani Foundation
@@ -70,8 +70,8 @@ Latest draft DP released in March 2017. Inviting volunteers for &#8220;warping&
 
 #### By Ravikant: 
 15.7.17: Matched the villages list with their village codes, and then extracted their locations from MH Villages data. And created web interfaces for showing searchable list of the villages, and a map with the villages pinned.
-  * list: http://bricks.curioussouls.in/watercup/
-  * map: http://bricks.curioussouls.in/watercup/map
+  * list: [http://bricks.curioussouls.in/watercup/](http://bricks.curioussouls.in/watercup/)
+  * map: [http://bricks.curioussouls.in/watercup/map](http://bricks.curioussouls.in/watercup/map)
 
 
 ## Others:
