@@ -68,10 +68,11 @@ Latest draft DP released in March 2017. Inviting volunteers for &#8220;warping&
   * [List of participating villages](http://bit.ly/villagenames) published by Paani Foundation
   * Curated [list of participating villages](https://drive.google.com/open?id=1SyIZ1xqaJk5TTF_LUWsYIdngia1gGho9PUrbs2KWwrw) : table with columns: region, district, taluka, village (marathi and english)
 
-To do:
+#### By Ravikant: 
+15.7.17: Matched the villages list with their village codes, and then extracted their locations from MH Villages data. And created web interfaces for showing searchable list of the villages, and a map with the villages pinned.
+  * list: http://bricks.curioussouls.in/watercup/
+  * map: http://bricks.curioussouls.in/watercup/map
 
-  * Cross-reference with 2011 census data to get village codes of the participating villages
-  * Find shapes and/or lat-long locations from MH Villages shapefile
 
 ## Others:
 
