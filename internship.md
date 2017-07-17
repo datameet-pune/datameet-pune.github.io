@@ -2,9 +2,9 @@
 
 Respected Sir/Madam,
 
-We are a volunteer group of civil society & programmers working in data related issues relevant to the social sector. We work to improve the quality of public information/data on multiple issues such as public transport, education, city budgets, rural development etc. See http://datameet.org for more info.
+We are a volunteer group of civil society & programmers working in data related issues relevant to the social sector. We work to improve the quality of public information/data on multiple issues such as public transport, education, city budgets, rural development etc. See [http://datameet.org](http://datameet.org) for more info.
 
-As the Pune chapter, we have been working on some Pune-specific and Maharashtra-specific projects. Please see this website for details on our projects: https://datameet-pune.github.io/ . Over the past two years our members have created data visualizations of Pune’s budget data, interactive maps of Pune’s new wards and corporators, worked on refining map data of Maharashtra’s villages, mapped census data at village level, overlaid development plan maps on interactive satellite view and more. All our work is shared open source and the raw data is openly shared so it may help NGOs, researchers in their work.
+As the Pune chapter, we have been working on some Pune-specific and Maharashtra-specific projects. Please see this website for details on our projects: [https://datameet-pune.github.io/](https://datameet-pune.github.io/) . Over the past two years our members have created data visualizations of Pune’s budget data, interactive maps of Pune’s new wards and corporators, worked on refining map data of Maharashtra’s villages, mapped census data at village level, overlaid development plan maps on interactive satellite view and more. All our work is shared open source and the raw data is openly shared so it may help NGOs, researchers in their work.
 
 We are looking for interns for working on one or more of our projects. The projects to work on are all involving real-world data and having great potential for social impact. Upon completion we will encourage the interns to self-publish their work online using Github etc, which will make valuable additions to their resume. DataMeet is a registered NGO and we will provide certificate / letter of recognition to the intern upon successful project work completion.
 
@@ -43,7 +43,7 @@ Interested interns - students or others - may apply directly by sending an email
 
 Note: CV/Resume isn't necessary, please don't waste time in making one just for applying - we won't read it anyway and we honestly do not care about your marks.
 
-Mention if you are interested in any specific project listed on https://datameet-pune.github.io/ or a social issue that you feel passionate about,
+Mention if you are interested in any specific project listed on [https://datameet-pune.github.io/](https://datameet-pune.github.io/) or a social issue that you feel passionate about,
 
 We will prefer small teams of two to four interns. If you apply individually, you may be put in a team or may be working individually only, depending on project's requirements.
 
