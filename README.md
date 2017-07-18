@@ -2,6 +2,8 @@
 
 Datameet is a volunteer group of civil society & programmers interested in data related issues relevant to the social sector. We work to improve the quality of public information/data on multiple issues such as public transport, education, city budgets, rural development etc. See <http://datameet.org> for more.
 
+  **Announcement: Call for [Internships](/internship/)**
+
 On this page, we are attempting to bring together various open data projects that volunteers of DataMeet Pune chapter are working on, or want to work on. Along with the output, we want to document and openly share the work being done as it's happening, in a way that anyone interested can join in and take things forward.
 
 There are broadly three types of work we can do:
