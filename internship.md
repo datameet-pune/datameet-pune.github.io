@@ -49,5 +49,7 @@ Mention if you are interested in any specific project listed on [https://datamee
 
 We will prefer small teams of two to four interns. If you apply individually, you may be put in a team or may be working individually only, depending on project's requirements.
 
-
 To converse about this further, please whatsapp Nikhil on +91-966-583-1250.
+
+### Meetups
+22 July 2017: <https://www.meetup.com/DataMeet-Pune/events/241877476/>
