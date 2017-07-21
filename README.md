@@ -16,6 +16,8 @@ example:||
 
 ## Projects
 
+**Note:** Projects are being moved to our **[github wiki](https://github.com/datameet-pune/datameet-pune.github.io/wiki/Home)**. Please see there for the latest.
+
 ### [<img align="right" src="images/bus%20stops%20swargate.jpg" alt="" width="300" height="152" />](images/bus%20stops%20swargate.jpg)PMPML / bus / public transport related:
 
   * **[Project working log : Pmpml bus stops](https://github.com/datameet-pune/datameet-pune.github.io/wiki/Project%3A-Bus-stops-database)**
