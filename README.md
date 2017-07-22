@@ -16,7 +16,7 @@ example:||
 
 ## Projects
 
-**Note:** Projects are being moved to our **[github wiki](https://github.com/datameet-pune/datameet-pune.github.io/wiki/Home)**. Please see there for the latest.
+Please open our **[github wiki](https://github.com/datameet-pune/datameet-pune.github.io/wiki/Home)** for checking out the projects we're working on
 
 ## Learning Opportunities
 
