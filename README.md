@@ -18,87 +18,12 @@ example:||
 
 **Note:** Projects are being moved to our **[github wiki](https://github.com/datameet-pune/datameet-pune.github.io/wiki/Home)**. Please see there for the latest.
 
-### [<img align="right" src="images/bus%20stops%20swargate.jpg" alt="" width="300" height="152" />](images/bus%20stops%20swargate.jpg)PMPML / bus / public transport related:
+## Learning Opportunities
 
-  * **[Project working log : Pmpml bus stops](https://github.com/datameet-pune/datameet-pune.github.io/wiki/Project%3A-Bus-stops-database)**
-  * [project note : pmpml routes](https://github.com/datameet-pune/datameet-pune.github.io/wiki/Project:-Bus-routes-database)
-  * [project note : GTFS conversion program](https://github.com/datameet-pune/datameet-pune.github.io/wiki/Project:-GTFS-feed-creation)
-
-### [<img align="right" src="images/punedistchoro.jpg" alt="" width="300" height="261" />](images/punedistchoro.jpg)Maharashtra Villages mapping
-
-  * [Write-up on the project](https://craigdsouza.github.io/village_mapping/)
-  * [Tracking sheet](http://tinyurl.com/dmpune17916)
-  * Web interface : 
-      * [Log of processing shapefile for web interface](https://docs.google.com/document/d/1JzdHpGpuNBqad717gLa2M2hQ1rMMLLv6FWdxw6-b9Cs/edit?usp=sharing)
-      * [Choropleth visualization of census data for MH villages](https://bnamita.github.io/Village_Mapping_v2/)
-      * [project on github](https://github.com/bnamita/Village_Mapping_v2/tree/master)
-      * [upload-your-own-csv version](https://github.com/bnamita/Village_Mapping_v2/tree/Upload-own-csv)
-
-Related : [IndiaWikiFiles](https://github.com/IndiaWikiFiles/Maharashtra) : Wiki files for villages and towns in Maharashtra based on Census 2011 (the project has work going on for other states too)
-
-### Pune wards / elections:
-
-  * Available data: 
-      * [New wards boundaries (2017 onwards) digitized](https://gist.github.com/answerquest/db11b5c7be7e00765ae33152124aba1e)
-      * [List of candidates contesting for 2017 civic (PMC) elections](https://gist.github.com/answerquest/0cfd125093f891c853befa12226eff79) (cleaned,  searchable)
-      * [List of corporators elected in 2017 civic (PMC) elections (serving 2017-22)](https://gist.github.com/datameet-pune/3ca3af1d528623c1bb7d99f8466868f0) (cleaned,  searchable)
-      * [Composite map showing new and old boundaries and old corporators&#8217; details](https://nikhilvj.carto.com/viz/718f58d8-8e07-11e6-8015-0e3ff518bd15/embed_map)
-  * Data wanted: 
-      * Centroid or main chowk etc lat-long location of each ward, to have point-locations of wards
-      * 2017-22 elected corporators listng (Marathi+English), details, photos
-      * Admin ward allocation of the new 41 wards
-      * Polling booth locations for 2017 municipal election
-
-### Pune Budget
-* Budget 2017-18 released in excel format: <http://www.punecorporation.org/en/budget-2017-2018>
-* See [work done](http://ourpuneourbudget.in/) on 2016-17 budget (data curation, visualization)
-
-### Pune Development Plan
-
-  * [Project note : web-mapping March2017 Development Plan maps for Pune](https://docs.google.com/document/d/1fsrDS6six2zkgZJ_L-10__1yyOUZs4Sj23SbXwBCdYI/edit?usp=sharing)
-  * See [overlap.html](http://nikhilvj.cu.cc/files/overlap.html) for seeing past DPs overlapped.
-
-Latest draft DP released in March 2017. Inviting volunteers for &#8220;warping&#8221; the released static maps to web map to enable overlaying, comparing with satellite maps, etc. Click the project note link above for more.
-
-### MSRTC data
-
-  * [List of MSRTC bus stands](https://gist.github.com/answerquest/5d8c85a369d9c3c6d5513743995f7e78) : Bus Stop Code, Bus Stop Name, Taluka name, District Name.
-  * To do: assign lat-long co-ordinates to this list. [Google spreadsheet initiated here](https://docs.google.com/spreadsheets/d/1j3ix7Xj-HwnU9t6UJ7jXiCS2gWDnlwLkSpniEJLdYS4/edit?usp=sharing) for crowdsourcing locations.
-  * Wanted: MSRTC routes and time tables.
-
-### Water Cup 2017 participating villages
-
-  * See <http://paanifoundation.in/> and [their Get Involved page](http://www.paanifoundation.in/en/get-involved/) for details.
-  * [List of participating villages](http://bit.ly/villagenames) published by Paani Foundation
-  * Curated [list of participating villages](https://drive.google.com/open?id=1SyIZ1xqaJk5TTF_LUWsYIdngia1gGho9PUrbs2KWwrw) : table with columns: region, district, taluka, village (marathi and english)
-
-#### By Ravikant: 
-15.7.17: Matched the villages list with their village codes, and then extracted their locations from MH Villages data. And created web interfaces for showing searchable list of the villages, and a map with the villages pinned.
-  * list: [http://bricks.curioussouls.in/watercup/](http://bricks.curioussouls.in/watercup/)
-  * map: [http://bricks.curioussouls.in/watercup/map](http://bricks.curioussouls.in/watercup/map)
-
-
-## Others:
-
-To be detailed out. Here are some brief overview points: List of things we can work on:
-
-  * Mapping: 
-      * groundwater data
-      * urban farms
-      * ranwater harvesting
-      * solar water heater adoption
-      * composting
-      * waste segregation
-      * industries / factories
-      * govt offices
-      * centroids of new wards (point locations)
-      * rent, prices
-
-* Learning:
   * Python
   * R
   * javascript
-  * mapping &#8211; general, web-based
+  * mapping : general, web-based
   * QGIS
   * machine learning, modelling, etc
 
