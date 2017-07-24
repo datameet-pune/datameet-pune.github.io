@@ -1,5 +1,8 @@
 << back to [DataMeet Pune](/) home page
 
+Jump to **[tasks list](https://github.com/datameet-pune/datameet-pune.github.io/wiki/Tasks-for-Interns)**, **[projects listing](https://github.com/datameet-pune/datameet-pune.github.io/wiki)**
+
+
 ## Apply for internship in open public data related projects with DataMeet Pune chapter
 
 Respected Sir/Madam,
