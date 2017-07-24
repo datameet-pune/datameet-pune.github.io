@@ -16,7 +16,9 @@ example:||
 
 ## Projects
 
-Please open our **[github wiki](https://github.com/datameet-pune/datameet-pune.github.io/wiki/Home)** for checking out the projects we're working on
+Please open our **[github wiki](https://github.com/datameet-pune/datameet-pune.github.io/wiki/Home)** for checking out the projects we're working on.
+
+We've broken down the projects and made a detailed **[tasks list](https://github.com/datameet-pune/datameet-pune.github.io/wiki/Tasks-for-Interns)** separated by skillsets needed, so check it out and join us!
 
 ## Learning Opportunities
 
