@@ -16,8 +16,8 @@ example:||
 
 There's a fourth kind of work that has emerged from what we've been doing:
 
-**4. Program** : Finding, or creating tools like web-based scripts or apps that help to automate one or more of the above tasks and make data science easier, more effective and a lot of fun.
-<br>Example: [Self-referencing CSV to Hierarchical JSON converter](https://answerquest.github.io/selfrefCSV_2_hierarchJSON.html)
+**4. Program** : Finding or creating tools like web-based scripts or apps that help to automate one or more of the above tasks, save time and make data science work easier and more doable.
+<br>Examples: [Self-referencing CSV to Hierarchical JSON converter](https://answerquest.github.io/selfrefCSV_2_hierarchJSON.html) by Nikhil
 
 
 ## Projects
@@ -28,16 +28,17 @@ We've broken down the projects and made a detailed **[tasks list](https://github
 
 ## Learning Opportunities
 
-  * Python
-  * R
-  * javascript
-  * mapping : general, web-based
-  * QGIS
-  * machine learning, modelling, etc
+Learning happens quicker when there are real world, relevant things to work on, and when you can reach out to a supportive community of peers. Take up a project that actually makes sense and is important to you, find allies and experts to rely on, and you'll find yourself racing up the learning curve in no time. You'll also learn interdisciplinary skills as real world projects are often not as narrowly specialized as academic ones are. Below are some skills where there's learning opportunities with DataMeet:
 
-> Tip : learning happens quicker when there is real world data to work on.
-  
-> Incentive : learner can publish an output of their learning, like a cleaned up dataset or a viz. This can be a valuable addition to their resume.
+  * Mapping : Basic, desktop-based and web-based
+  * Mapping : Advanced GIS work with QGIS and others
+  * Programming : Javascript, Python and more
+  * Data Wrangling : Data extraction, scraping, cleaning, converting, curating : Learn multiple different tools and techniques to do it
+  * Data Analysis : Using advanced spreadsheet techniques, R and other tools, web based tools
+  * Data Visualization : d3.js, tableau, leaflet.js and more
+  * Machine learning, modelling, etc
+
+Incentive : Since we're totally open source, we encourage the learner to publish an output of their learning, like a cleaned up dataset or a viz, on their own public profile. This can be a valuable addition to their resume.
 
 
 ## Pune Chapter
