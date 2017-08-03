@@ -16,7 +16,7 @@ example:||
 
 There's a fourth kind of work that has emerged from what we've been doing:
 
-**4. Program** : Finding or creating tools like web-based scripts or apps that help to automate one or more of the above tasks, save time and make data science work easier and more doable.
+**4. Program** : Finding or creating tools like web-based scripts or apps that help to automate one or more of the above tasks. It saves time, makes data science work easier and more doable and opens up new possiblities.
 <br>Examples: [Self-referencing CSV to Hierarchical JSON converter](https://answerquest.github.io/selfrefCSV_2_hierarchJSON.html) by Nikhil
 
 
@@ -38,7 +38,7 @@ Learning happens quicker when there are real world, relevant things to work on, 
   * Data Visualization : d3.js, tableau, leaflet.js and more
   * Machine learning, modelling, etc
 
-Incentive : Since we're totally open source, we encourage the learner to publish an output of their learning, like a cleaned up dataset or a viz, on their own public profile. This can be a valuable addition to their resume.
+Since we're totally open source, we encourage the learner to publish an output of their learning, like a cleaned up dataset or a viz, on their own public profile. This can be a valuable addition to their resume.
 
 
 ## Pune Chapter
