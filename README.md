@@ -6,13 +6,18 @@ Datameet is a volunteer group of civil society & programmers interested in data 
 
 On this page, we are attempting to bring together various open data projects that volunteers of DataMeet Pune chapter are working on, or want to work on. Along with the output, we want to document and openly share the work being done as it's happening, in a way that anyone interested can join in and take things forward.
 
-There are broadly three types of work we can do:
+There are broadly three types of work we do with data:
 
  1 Collect | 2 Curate | 3 Apply 
 --|--|--
 Bring socially relevant data out by collecting, listing, sharing about it | Digitize, curate, clean, convert the data to a better, more usable form | Visualize or otherwise apply the data; combine with other dataset(s) 
 example:||
 <sub>[official PDF of Pune elected corporators 2017-22](https://pmc.gov.in/sites/default/files/winning_candidates.pdf)</sub> | <sub>[CSV table of the same](https://gist.github.com/datameet-pune/3ca3af1d528623c1bb7d99f8466868f0)</sub> | <sub>[Map of Pune showing which area has elected which corporators](https://nikhilvj.carto.com/viz/718f58d8-8e07-11e6-8015-0e3ff518bd15/embed_map)</sub>
+
+There's a fourth kind of work that has emerged from what we've been doing:
+**4. Program** : Finding, or creating tools like web-based scripts or apps that help to automate one or more of the above tasks and make data science easier, more effective and a lot of fun.
+<br>Example: [Self-referencing CSV to Hierarchical JSON converter](https://answerquest.github.io/selfrefCSV_2_hierarchJSON.html)
+
 
 ## Projects
 
