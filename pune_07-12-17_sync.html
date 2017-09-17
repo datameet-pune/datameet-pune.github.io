@@ -1,0 +1,104 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Pune prabhag (electoral ward) maps : 2007, 2012, 2017</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.2.0/dist/leaflet.css" />
+<script src="https://unpkg.com/leaflet@1.2.0/dist/leaflet-src.js"></script>
+<script src="https://api.tiles.mapbox.com/mapbox.js/plugins/leaflet-omnivore/v0.3.1/leaflet-omnivore.min.js" alt='lib/leaflet-omnivore.min.js'></script>
+<script src="https://jieter.github.io/Leaflet.Sync/L.Map.Sync.js"></script>
+
+<style type="text/css">
+html, body { width: 100%; height: 100%; margin: 0; }
+#map, #container { width: 50%; height: 100%;  
+}
+#map { float: left; }
+#container { float: right; }
+#container .map { width: 100%; height: 50%; }
+	
+#map { border-style: solid; border-width: 2px; border-color: black 
+	box-sizing: border-box; -moz-box-sizing: border-box; -webkit-box-sizing: border-box;}
+#mapA { border-style: solid; border-width: 2px; border-color: black 
+	box-sizing: border-box; -moz-box-sizing: border-box; -webkit-box-sizing: border-box;}
+#mapB { border-style: solid; border-width: 2px; border-color: black 
+	box-sizing: border-box; -moz-box-sizing: border-box; -webkit-box-sizing: border-box;}
+
+</style>
+</head>
+
+<body>
+<div id="map"></div>
+<div id="container">
+<div id="mapA" class="map"></div>
+<div id="mapB" class="map"></div>
+</div>
+
+<script type="text/javascript">
+var DATAPATH = "maps/"
+var center = [18.53, 73.85]; //Pune
+
+var osmLink = '<a href="http://openstreetmap.org">OpenStreetMap</a>';
+var MBAttrib = '&copy; ' + osmLink + ' Contributors & <a href="https://www.mapbox.com/about/maps/">Mapbox</a>';
+var mapboxUrl = 'https://api.mapbox.com/styles/v1/mapbox/streets-v10/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoibmlraGlsc2hldGgiLCJhIjoiQTREVlJuOCJ9.YpMpVVbkxOFZW-bEq1_LIw'; // from Mapbox account
+
+var MBstreets = L.tileLayer(mapboxUrl, {attribution: MBAttrib});
+var MBstreetsA = L.tileLayer(mapboxUrl, {attribution: MBAttrib});
+var MBstreetsB = L.tileLayer(mapboxUrl, {attribution: MBAttrib});
+
+var map = L.map('map', {
+layers: [MBstreets],
+center: center,
+zoom: 12
+});
+
+var mapA = L.map('mapA', {
+layers: [MBstreetsA],
+center: center,
+zoom: 12,
+zoomControl: false
+});
+
+var mapB = L.map('mapB', {
+layers: [MBstreetsB],
+center: center,
+zoom: 12,
+zoomControl: false
+});
+
+// syncing
+map.sync(mapA, {syncCursor: true});
+map.sync(mapB, {syncCursor: true});
+
+mapA.sync(map, {syncCursor: true});
+mapA.sync(mapB, {syncCursor: true});
+
+mapB.sync(map, {syncCursor: true});
+mapB.sync(mapA, {syncCursor: true});
+
+// Adding layer control
+var layerControl = L.control.layers({ },{ }, {collapsed: false}).addTo(map); 
+var  layerControlA = L.control.layers({ }, { }, {collapsed: false}).addTo(mapA); 
+var  layerControlB = L.control.layers({ }, { }, {collapsed: false}).addTo(mapB); 
+
+// Loading ward layers on the three maps
+var wards = L.geoJson(null, { 
+	style: {weight: 1.5, opacity: 1, color: 'green', dashArray: '0', fillOpacity: 0.0 }
+}).addTo(map);
+omnivore.geojson(DATAPATH+'pune2017_22_wards_corporators.geojson', null, wards);
+layerControl.addOverlay(wards , "2017 Prabhags (41)");
+
+var wardsA = L.geoJson(null, { 
+	style: {weight: 1.5, opacity: 1, color: 'blue', dashArray: '0', fillOpacity: 0.0 }
+}).addTo(mapA);
+omnivore.geojson(DATAPATH+'pune-2012-17-prabhags.geojson', null, wardsA);
+layerControlA.addOverlay(wardsA , "2012-17 Prabhags (76)");
+
+var wardsB = L.geoJson(null, { 
+	style: {weight: 1.5, opacity: 1, color: 'red', dashArray: '0', fillOpacity: 0.0 }
+}).addTo(mapB);
+omnivore.geojson(DATAPATH+'pune pre-2012 144prabhags.geojson', null, wardsB);
+layerControlB.addOverlay(wardsB , "2007-12 Prabhags (144)");
+
+</script>
+</body>
+</html>
