@@ -1,0 +1,162 @@
+{
+  "code": "ADM",
+  "parentcode": "ROOT",
+  "name-mr": "Admin wards",
+  "name-en": "Admin wards",
+  "count": 15,
+  "name": "ADM",
+  "level": "0",
+  "subitems": 15,
+  "children": [
+    {
+      "code": "ADM01",
+      "parentcode": "ADM",
+      "name-mr": "औंध क्षेत्रीय कार्यालय",
+      "name-en": "Aundh admin ward office",
+      "count": 1,
+      "name": "ADM01",
+      "level": "1",
+      "subitems": 0
+    },
+    {
+      "code": "ADM02",
+      "parentcode": "ADM",
+      "name-mr": "कोथरूड क्षेत्रीय कार्यालय",
+      "name-en": "Kothrud admin ward office",
+      "count": 1,
+      "name": "ADM02",
+      "level": "1",
+      "subitems": 0
+    },
+    {
+      "code": "ADM03",
+      "parentcode": "ADM",
+      "name-mr": "घोले रोड क्षेत्रीय कार्यालय",
+      "name-en": "Ghole road admin ward office",
+      "count": 1,
+      "name": "ADM03",
+      "level": "1",
+      "subitems": 0
+    },
+    {
+      "code": "ADM04",
+      "parentcode": "ADM",
+      "name-mr": "वारजे कर्वेनगर क्षेत्रीय कार्यालय",
+      "name-en": "Warje Karvenagar admin ward office",
+      "count": 1,
+      "name": "ADM04",
+      "level": "1",
+      "subitems": 0
+    },
+    {
+      "code": "ADM05",
+      "parentcode": "ADM",
+      "name-mr": "ढोलेपाटील रोड क्षेत्रीय कार्यालय",
+      "name-en": "Dhole Patil road admin ward office",
+      "count": 1,
+      "name": "ADM05",
+      "level": "1",
+      "subitems": 0
+    },
+    {
+      "code": "ADM06",
+      "parentcode": "ADM",
+      "name-mr": "नगररोड क्षेत्रीय कार्यालय",
+      "name-en": "Nagar road admin ward office",
+      "count": 1,
+      "name": "ADM06",
+      "level": "1",
+      "subitems": 0
+    },
+    {
+      "code": "ADM07",
+      "parentcode": "ADM",
+      "name-mr": "संगमवाडी क्षेत्रीय कार्यालय",
+      "name-en": "Sangamwadi admin ward office",
+      "count": 1,
+      "name": "ADM07",
+      "level": "1",
+      "subitems": 0
+    },
+    {
+      "code": "ADM08",
+      "parentcode": "ADM",
+      "name-mr": "भवानी पेठ क्षेत्रीय कार्यालय",
+      "name-en": "Bhavani peth admin ward office",
+      "count": 1,
+      "name": "ADM08",
+      "level": "1",
+      "subitems": 0
+    },
+    {
+      "code": "ADM09",
+      "parentcode": "ADM",
+      "name-mr": "कसबा विश्रामबाग वाडा क्षेत्रीय कार्यालय",
+      "name-en": "Kasba Vishrambaugwada admin ward office",
+      "count": 1,
+      "name": "ADM09",
+      "level": "1",
+      "subitems": 0
+    },
+    {
+      "code": "ADM10",
+      "parentcode": "ADM",
+      "name-mr": "टिळक रोड क्षेत्रीय कार्यालय",
+      "name-en": "Tilak road admin ward office",
+      "count": 1,
+      "name": "ADM10",
+      "level": "1",
+      "subitems": 0
+    },
+    {
+      "code": "ADM11",
+      "parentcode": "ADM",
+      "name-mr": "सहकारनगर क्षेत्रीय कार्यालय",
+      "name-en": "Sahakarnagar admin ward office",
+      "count": 1,
+      "name": "ADM11",
+      "level": "1",
+      "subitems": 0
+    },
+    {
+      "code": "ADM12",
+      "parentcode": "ADM",
+      "name-mr": "हडपसर क्षेत्रीय कार्यालय",
+      "name-en": "Hadapsar admin ward office",
+      "count": 1,
+      "name": "ADM12",
+      "level": "1",
+      "subitems": 0
+    },
+    {
+      "code": "ADM13",
+      "parentcode": "ADM",
+      "name-mr": "बिबवेवाडी क्षेत्रीय कार्यालय",
+      "name-en": "Bibwevadi admin ward office",
+      "count": 1,
+      "name": "ADM13",
+      "level": "1",
+      "subitems": 0
+    },
+    {
+      "code": "ADM14",
+      "parentcode": "ADM",
+      "name-mr": "धनकवडी क्षेत्रीय कार्यालय",
+      "name-en": "Dhankawdi admin ward office",
+      "count": 1,
+      "name": "ADM14",
+      "level": "1",
+      "subitems": 0
+    },
+    {
+      "code": "ADM15",
+      "parentcode": "ADM",
+      "name-mr": "कोंढवा वानवडी क्षेत्रीय कार्यालय",
+      "name-en": "Kondhwa Wanawdi admin ward office",
+      "count": 1,
+      "name": "ADM15",
+      "level": "1",
+      "subitems": 0
+    }
+  ]
+}

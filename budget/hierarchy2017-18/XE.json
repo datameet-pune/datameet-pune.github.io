@@ -1,0 +1,2716 @@
+{
+  "code": "XE",
+  "parentcode": "ROOT",
+  "name-mr": "",
+  "name-en": "Water Budget (Part C) - Revenue Expenditure",
+  "count": 244,
+  "name": "XE",
+  "level": "0",
+  "subitems": 4,
+  "children": [
+    {
+      "code": "XE12",
+      "parentcode": "XE",
+      "name-mr": "१. पाणीपुरवठा",
+      "name-en": "Water Supply",
+      "count": 144,
+      "name": "XE12",
+      "level": "1",
+      "subitems": 22,
+      "children": [
+        {
+          "code": "XE12A",
+          "parentcode": "XE12",
+          "name-mr": "क. पाणीपुरवठा",
+          "name-en": "Water Supply",
+          "count": 32,
+          "name": "XE12A",
+          "level": "2",
+          "subitems": 32,
+          "children": [
+            {
+              "code": "XE12A101A",
+              "parentcode": "XE12A",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12A101A",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12A101B",
+              "parentcode": "XE12A",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12A101B",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12A###A",
+              "parentcode": "XE12A",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12A###A",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12A103",
+              "parentcode": "XE12A",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12A103",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12A104",
+              "parentcode": "XE12A",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12A104",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12A105",
+              "parentcode": "XE12A",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12A105",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12A106",
+              "parentcode": "XE12A",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12A106",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12A107",
+              "parentcode": "XE12A",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12A107",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12A109",
+              "parentcode": "XE12A",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12A109",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12A112",
+              "parentcode": "XE12A",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12A112",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12A115",
+              "parentcode": "XE12A",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12A115",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12A120",
+              "parentcode": "XE12A",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12A120",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12A123",
+              "parentcode": "XE12A",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12A123",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12A126",
+              "parentcode": "XE12A",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12A126",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12A127",
+              "parentcode": "XE12A",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12A127",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12A128",
+              "parentcode": "XE12A",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12A128",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12A129",
+              "parentcode": "XE12A",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12A129",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12A130",
+              "parentcode": "XE12A",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12A130",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12A131",
+              "parentcode": "XE12A",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12A131",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12A132",
+              "parentcode": "XE12A",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12A132",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12A133",
+              "parentcode": "XE12A",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12A133",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12A134",
+              "parentcode": "XE12A",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12A134",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12A135",
+              "parentcode": "XE12A",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12A135",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12A136",
+              "parentcode": "XE12A",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12A136",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12A137",
+              "parentcode": "XE12A",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12A137",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12A138",
+              "parentcode": "XE12A",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12A138",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12A139",
+              "parentcode": "XE12A",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12A139",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12A141",
+              "parentcode": "XE12A",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12A141",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12A143",
+              "parentcode": "XE12A",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12A143",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12A144",
+              "parentcode": "XE12A",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12A144",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12A145",
+              "parentcode": "XE12A",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12A145",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12A146",
+              "parentcode": "XE12A",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12A146",
+              "level": "3",
+              "subitems": 0
+            }
+          ]
+        },
+        {
+          "code": "XE12B",
+          "parentcode": "XE12",
+          "name-mr": "ख१. नळ खाते (स्वारगेट विभाग)",
+          "name-en": "Accounts (Swargate division)",
+          "count": 12,
+          "name": "XE12B",
+          "level": "2",
+          "subitems": 8,
+          "children": [
+            {
+              "code": "XE12B101A",
+              "parentcode": "XE12B",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12B101A",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12B102",
+              "parentcode": "XE12B",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12B102",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12B107",
+              "parentcode": "XE12B",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12B107",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12B111",
+              "parentcode": "XE12B",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12B111",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12B112",
+              "parentcode": "XE12B",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12B112",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12B113",
+              "parentcode": "XE12B",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12B113",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12B114",
+              "parentcode": "XE12B",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12B114",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12B115#",
+              "parentcode": "XE12B",
+              "name-mr": "",
+              "name-en": "",
+              "count": 5,
+              "name": "XE12B115#",
+              "level": "3",
+              "subitems": 5,
+              "children": [
+                {
+                  "code": "XE12B115/X1-1",
+                  "parentcode": "XE12B115#",
+                  "name-mr": "",
+                  "name-en": "",
+                  "count": 1,
+                  "name": "XE12B115/X1-1",
+                  "level": "4",
+                  "subitems": 0
+                },
+                {
+                  "code": "XE12B115/X1-2",
+                  "parentcode": "XE12B115#",
+                  "name-mr": "",
+                  "name-en": "",
+                  "count": 1,
+                  "name": "XE12B115/X1-2",
+                  "level": "4",
+                  "subitems": 0
+                },
+                {
+                  "code": "XE12B115/X1-3",
+                  "parentcode": "XE12B115#",
+                  "name-mr": "",
+                  "name-en": "",
+                  "count": 1,
+                  "name": "XE12B115/X1-3",
+                  "level": "4",
+                  "subitems": 0
+                },
+                {
+                  "code": "XE12B115/X1-4",
+                  "parentcode": "XE12B115#",
+                  "name-mr": "",
+                  "name-en": "",
+                  "count": 1,
+                  "name": "XE12B115/X1-4",
+                  "level": "4",
+                  "subitems": 0
+                },
+                {
+                  "code": "XE12B115/X1-5",
+                  "parentcode": "XE12B115#",
+                  "name-mr": "",
+                  "name-en": "",
+                  "count": 1,
+                  "name": "XE12B115/X1-5",
+                  "level": "4",
+                  "subitems": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "XE12B-2",
+          "parentcode": "XE12",
+          "name-mr": "ख२. नळ खाते (विभागीय कार्यालय)",
+          "name-en": "Accounts (Ward offices)",
+          "count": 3,
+          "name": "XE12B-2",
+          "level": "2",
+          "subitems": 3,
+          "children": [
+            {
+              "code": "XE12B###A",
+              "parentcode": "XE12B-2",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12B###A",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12B301/W6-#",
+              "parentcode": "XE12B-2",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12B301/W6-#",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12B302/C6-#",
+              "parentcode": "XE12B-2",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12B302/C6-#",
+              "level": "3",
+              "subitems": 0
+            }
+          ]
+        },
+        {
+          "code": "XE12C",
+          "parentcode": "XE12",
+          "name-mr": "ग. पाणीमापके",
+          "name-en": "Meters",
+          "count": 3,
+          "name": "XE12C",
+          "level": "2",
+          "subitems": 3,
+          "children": [
+            {
+              "code": "XE12C101",
+              "parentcode": "XE12C",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12C101",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12C103",
+              "parentcode": "XE12C",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12C103",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12C104",
+              "parentcode": "XE12C",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12C104",
+              "level": "3",
+              "subitems": 0
+            }
+          ]
+        },
+        {
+          "code": "XE12F101",
+          "parentcode": "XE12",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "XE12F101",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "XE12G101",
+          "parentcode": "XE12",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "XE12G101",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "XE12H101",
+          "parentcode": "XE12",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "XE12H101",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "XE12I101",
+          "parentcode": "XE12",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "XE12I101",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "XE12K101",
+          "parentcode": "XE12",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "XE12K101",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "XE12M101",
+          "parentcode": "XE12",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "XE12M101",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "XE12Z101",
+          "parentcode": "XE12",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "XE12Z101",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "XE12N",
+          "parentcode": "XE12",
+          "name-mr": "क१. लष्कर पाणीपुरवठा",
+          "name-en": "Pune cantonment water supply",
+          "count": 17,
+          "name": "XE12N",
+          "level": "2",
+          "subitems": 17,
+          "children": [
+            {
+              "code": "XE12N101A",
+              "parentcode": "XE12N",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12N101A",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12N102",
+              "parentcode": "XE12N",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12N102",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12N103",
+              "parentcode": "XE12N",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12N103",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12N104",
+              "parentcode": "XE12N",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12N104",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12N105",
+              "parentcode": "XE12N",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12N105",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12N106",
+              "parentcode": "XE12N",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12N106",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12N108",
+              "parentcode": "XE12N",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12N108",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12N109",
+              "parentcode": "XE12N",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12N109",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12N117",
+              "parentcode": "XE12N",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12N117",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12N118",
+              "parentcode": "XE12N",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12N118",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12N120",
+              "parentcode": "XE12N",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12N120",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12N121",
+              "parentcode": "XE12N",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12N121",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12N123",
+              "parentcode": "XE12N",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12N123",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12N124",
+              "parentcode": "XE12N",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12N124",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12N125",
+              "parentcode": "XE12N",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12N125",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12N126",
+              "parentcode": "XE12N",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12N126",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12N###A",
+              "parentcode": "XE12N",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12N###A",
+              "level": "3",
+              "subitems": 0
+            }
+          ]
+        },
+        {
+          "code": "XE12P",
+          "parentcode": "XE12",
+          "name-mr": "ख१. खडकी व SNDT चतुःश्रृंगी पाणीपुरवठा",
+          "name-en": "Khadki SNDT Chaturshringi water supply",
+          "count": 17,
+          "name": "XE12P",
+          "level": "2",
+          "subitems": 17,
+          "children": [
+            {
+              "code": "XE12P101A",
+              "parentcode": "XE12P",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12P101A",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12P102",
+              "parentcode": "XE12P",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12P102",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12P103",
+              "parentcode": "XE12P",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12P103",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12P104",
+              "parentcode": "XE12P",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12P104",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12P106",
+              "parentcode": "XE12P",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12P106",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12P110",
+              "parentcode": "XE12P",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12P110",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12P117",
+              "parentcode": "XE12P",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12P117",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12P119",
+              "parentcode": "XE12P",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12P119",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12P120",
+              "parentcode": "XE12P",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12P120",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12P121",
+              "parentcode": "XE12P",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12P121",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12P122",
+              "parentcode": "XE12P",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12P122",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12P###A",
+              "parentcode": "XE12P",
+              "name-mr": "ख२. खडकी व SNDT चतुःश्रृंगी पाणीपुरवठा (विभा. कार्या.): १. कायम सेवकवर्ग वेतन",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12P###A",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12P118C",
+              "parentcode": "XE12P",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12P118C",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12P118D",
+              "parentcode": "XE12P",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12P118D",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12P118E",
+              "parentcode": "XE12P",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12P118E",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12P118F",
+              "parentcode": "XE12P",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12P118F",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12P118G",
+              "parentcode": "XE12P",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12P118G",
+              "level": "3",
+              "subitems": 0
+            }
+          ]
+        },
+        {
+          "code": "XE12L",
+          "parentcode": "XE12",
+          "name-mr": "१ब. वाघोली प्रादेशिक पाणीपुरवठा योजना",
+          "name-en": "Wagholi water supply",
+          "count": 9,
+          "name": "XE12L",
+          "level": "2",
+          "subitems": 9,
+          "children": [
+            {
+              "code": "XE12L101A",
+              "parentcode": "XE12L",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12L101A",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12L102",
+              "parentcode": "XE12L",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12L102",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12L103",
+              "parentcode": "XE12L",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12L103",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12L104",
+              "parentcode": "XE12L",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12L104",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12L105",
+              "parentcode": "XE12L",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12L105",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12L107",
+              "parentcode": "XE12L",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12L107",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12L108",
+              "parentcode": "XE12L",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12L108",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12L109",
+              "parentcode": "XE12L",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12L109",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12L110",
+              "parentcode": "XE12L",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12L110",
+              "level": "3",
+              "subitems": 0
+            }
+          ]
+        },
+        {
+          "code": "XE12Q",
+          "parentcode": "XE12",
+          "name-mr": "१क१. वारजे प्रादेशिक पाणीपुरवठा योजना",
+          "name-en": "Warje pradeshik water supply",
+          "count": 8,
+          "name": "XE12Q",
+          "level": "2",
+          "subitems": 8,
+          "children": [
+            {
+              "code": "XE12Q101A",
+              "parentcode": "XE12Q",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12Q101A",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12Q102",
+              "parentcode": "XE12Q",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12Q102",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12Q103",
+              "parentcode": "XE12Q",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12Q103",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12Q104",
+              "parentcode": "XE12Q",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12Q104",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12Q105",
+              "parentcode": "XE12Q",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12Q105",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12Q107",
+              "parentcode": "XE12Q",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12Q107",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12Q108",
+              "parentcode": "XE12Q",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12Q108",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12Q109",
+              "parentcode": "XE12Q",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12Q109",
+              "level": "3",
+              "subitems": 0
+            }
+          ]
+        },
+        {
+          "code": "XE12R",
+          "parentcode": "XE12",
+          "name-mr": "१क२. वारजे मध्यवर्ती पाणीपुरवठा योजना",
+          "name-en": "Warje madhyavarti water supply",
+          "count": 7,
+          "name": "XE12R",
+          "level": "2",
+          "subitems": 7,
+          "children": [
+            {
+              "code": "XE12R101",
+              "parentcode": "XE12R",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12R101",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12R102",
+              "parentcode": "XE12R",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12R102",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12R103",
+              "parentcode": "XE12R",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12R103",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12R104",
+              "parentcode": "XE12R",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12R104",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12R105",
+              "parentcode": "XE12R",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12R105",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12R106",
+              "parentcode": "XE12R",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12R106",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12R107",
+              "parentcode": "XE12R",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12R107",
+              "level": "3",
+              "subitems": 0
+            }
+          ]
+        },
+        {
+          "code": "XE12S-A",
+          "parentcode": "XE12",
+          "name-mr": "१ड. वडगाव जलकेंद्र",
+          "name-en": "Wadgaon water center",
+          "count": 6,
+          "name": "XE12S-A",
+          "level": "2",
+          "subitems": 6,
+          "children": [
+            {
+              "code": "XE12S102",
+              "parentcode": "XE12S-A",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12S102",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12S103",
+              "parentcode": "XE12S-A",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12S103",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12S104",
+              "parentcode": "XE12S-A",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12S104",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12S105",
+              "parentcode": "XE12S-A",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12S105",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12S107",
+              "parentcode": "XE12S-A",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12S107",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12S108",
+              "parentcode": "XE12S-A",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12S108",
+              "level": "3",
+              "subitems": 0
+            }
+          ]
+        },
+        {
+          "code": "XE12S-B",
+          "parentcode": "XE12",
+          "name-mr": "१ई. नवीन होळकर जलकेंद्र",
+          "name-en": "New Holkar water center",
+          "count": 7,
+          "name": "XE12S-B",
+          "level": "2",
+          "subitems": 7,
+          "children": [
+            {
+              "code": "XE12S302",
+              "parentcode": "XE12S-B",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12S302",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12S303",
+              "parentcode": "XE12S-B",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12S303",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12S304",
+              "parentcode": "XE12S-B",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12S304",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12S305",
+              "parentcode": "XE12S-B",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12S305",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12S307",
+              "parentcode": "XE12S-B",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12S307",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12S308",
+              "parentcode": "XE12S-B",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12S308",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12S309",
+              "parentcode": "XE12S-B",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12S309",
+              "level": "3",
+              "subitems": 0
+            }
+          ]
+        },
+        {
+          "code": "XE12S-C",
+          "parentcode": "XE12",
+          "name-mr": "१फ. नवीन लष्कर जलकेंद्र",
+          "name-en": "New Cantonment water center",
+          "count": 7,
+          "name": "XE12S-C",
+          "level": "2",
+          "subitems": 7,
+          "children": [
+            {
+              "code": "XE12S402",
+              "parentcode": "XE12S-C",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12S402",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12S403",
+              "parentcode": "XE12S-C",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12S403",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12S404",
+              "parentcode": "XE12S-C",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12S404",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12S405",
+              "parentcode": "XE12S-C",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12S405",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12S407",
+              "parentcode": "XE12S-C",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12S407",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12S408",
+              "parentcode": "XE12S-C",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12S408",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12S409",
+              "parentcode": "XE12S-C",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12S409",
+              "level": "3",
+              "subitems": 0
+            }
+          ]
+        },
+        {
+          "code": "XE12S-D",
+          "parentcode": "XE12",
+          "name-mr": "",
+          "name-en": "",
+          "count": 4,
+          "name": "XE12S-D",
+          "level": "2",
+          "subitems": 4,
+          "children": [
+            {
+              "code": "XE12S502",
+              "parentcode": "XE12S-D",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12S502",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12S503",
+              "parentcode": "XE12S-D",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12S503",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12S504",
+              "parentcode": "XE12S-D",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12S504",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12S505",
+              "parentcode": "XE12S-D",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12S505",
+              "level": "3",
+              "subitems": 0
+            }
+          ]
+        },
+        {
+          "code": "XE12S-E",
+          "parentcode": "XE12",
+          "name-mr": "पाषाण पंपिंग स्टेशन",
+          "name-en": "Pashan pumping station",
+          "count": 4,
+          "name": "XE12S-E",
+          "level": "2",
+          "subitems": 4,
+          "children": [
+            {
+              "code": "XE12S602",
+              "parentcode": "XE12S-E",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12S602",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12S603",
+              "parentcode": "XE12S-E",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12S603",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12S604",
+              "parentcode": "XE12S-E",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12S604",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE12S605",
+              "parentcode": "XE12S-E",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE12S605",
+              "level": "3",
+              "subitems": 0
+            }
+          ]
+        },
+        {
+          "code": "XE12X101",
+          "parentcode": "XE12",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "XE12X101",
+          "level": "2",
+          "subitems": 0
+        }
+      ]
+    },
+    {
+      "code": "XE23",
+      "parentcode": "XE",
+      "name-mr": "२. गटारे व नाले सुधारणा",
+      "name-en": "Drainage and Sewerage",
+      "count": 98,
+      "name": "XE23",
+      "level": "1",
+      "subitems": 12,
+      "children": [
+        {
+          "code": "XE23A",
+          "parentcode": "XE23",
+          "name-mr": "क१. नगर अभियंता खात्याकडील खर्च",
+          "name-en": "Town Engineer Account spending",
+          "count": 45,
+          "name": "XE23A",
+          "level": "2",
+          "subitems": 20,
+          "children": [
+            {
+              "code": "XE23A101A",
+              "parentcode": "XE23A",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE23A101A",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE23A102A",
+              "parentcode": "XE23A",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE23A102A",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE23A103",
+              "parentcode": "XE23A",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE23A103",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE23A###B",
+              "parentcode": "XE23A",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE23A###B",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE23A###C",
+              "parentcode": "XE23A",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE23A###C",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE23A###D",
+              "parentcode": "XE23A",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE23A###D",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE23A###E",
+              "parentcode": "XE23A",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE23A###E",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE23A###F",
+              "parentcode": "XE23A",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE23A###F",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE23A###G",
+              "parentcode": "XE23A",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE23A###G",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE23A301/W7-#",
+              "parentcode": "XE23A",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE23A301/W7-#",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE23A302/C7-#",
+              "parentcode": "XE23A",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE23A302/C7-#",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE23A109",
+              "parentcode": "XE23A",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE23A109",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE23A111",
+              "parentcode": "XE23A",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE23A111",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE23A112",
+              "parentcode": "XE23A",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE23A112",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE23A113",
+              "parentcode": "XE23A",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE23A113",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE23A114",
+              "parentcode": "XE23A",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE23A114",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE23A115",
+              "parentcode": "XE23A",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE23A115",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE23A116",
+              "parentcode": "XE23A",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE23A116",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE23A117#",
+              "parentcode": "XE23A",
+              "name-mr": "",
+              "name-en": "",
+              "count": 26,
+              "name": "XE23A117#",
+              "level": "3",
+              "subitems": 26,
+              "children": [
+                {
+                  "code": "XE23A117/X2-51",
+                  "parentcode": "XE23A117#",
+                  "name-mr": "",
+                  "name-en": "",
+                  "count": 1,
+                  "name": "XE23A117/X2-51",
+                  "level": "4",
+                  "subitems": 0
+                },
+                {
+                  "code": "XE23A117/X2-52",
+                  "parentcode": "XE23A117#",
+                  "name-mr": "",
+                  "name-en": "",
+                  "count": 1,
+                  "name": "XE23A117/X2-52",
+                  "level": "4",
+                  "subitems": 0
+                },
+                {
+                  "code": "XE23A117/X2-53",
+                  "parentcode": "XE23A117#",
+                  "name-mr": "",
+                  "name-en": "",
+                  "count": 1,
+                  "name": "XE23A117/X2-53",
+                  "level": "4",
+                  "subitems": 0
+                },
+                {
+                  "code": "XE23A117/X2-54",
+                  "parentcode": "XE23A117#",
+                  "name-mr": "",
+                  "name-en": "",
+                  "count": 1,
+                  "name": "XE23A117/X2-54",
+                  "level": "4",
+                  "subitems": 0
+                },
+                {
+                  "code": "XE23A117/X2-55",
+                  "parentcode": "XE23A117#",
+                  "name-mr": "",
+                  "name-en": "",
+                  "count": 1,
+                  "name": "XE23A117/X2-55",
+                  "level": "4",
+                  "subitems": 0
+                },
+                {
+                  "code": "XE23A117/X2-56",
+                  "parentcode": "XE23A117#",
+                  "name-mr": "",
+                  "name-en": "",
+                  "count": 1,
+                  "name": "XE23A117/X2-56",
+                  "level": "4",
+                  "subitems": 0
+                },
+                {
+                  "code": "XE23A117/X2-57",
+                  "parentcode": "XE23A117#",
+                  "name-mr": "",
+                  "name-en": "",
+                  "count": 1,
+                  "name": "XE23A117/X2-57",
+                  "level": "4",
+                  "subitems": 0
+                },
+                {
+                  "code": "XE23A117/X2-58",
+                  "parentcode": "XE23A117#",
+                  "name-mr": "",
+                  "name-en": "",
+                  "count": 1,
+                  "name": "XE23A117/X2-58",
+                  "level": "4",
+                  "subitems": 0
+                },
+                {
+                  "code": "XE23A117/X2-59",
+                  "parentcode": "XE23A117#",
+                  "name-mr": "",
+                  "name-en": "",
+                  "count": 1,
+                  "name": "XE23A117/X2-59",
+                  "level": "4",
+                  "subitems": 0
+                },
+                {
+                  "code": "XE23A117/X2-60",
+                  "parentcode": "XE23A117#",
+                  "name-mr": "",
+                  "name-en": "",
+                  "count": 1,
+                  "name": "XE23A117/X2-60",
+                  "level": "4",
+                  "subitems": 0
+                },
+                {
+                  "code": "XE23A117/X2-61",
+                  "parentcode": "XE23A117#",
+                  "name-mr": "",
+                  "name-en": "",
+                  "count": 1,
+                  "name": "XE23A117/X2-61",
+                  "level": "4",
+                  "subitems": 0
+                },
+                {
+                  "code": "XE23A117/X2-62",
+                  "parentcode": "XE23A117#",
+                  "name-mr": "",
+                  "name-en": "",
+                  "count": 1,
+                  "name": "XE23A117/X2-62",
+                  "level": "4",
+                  "subitems": 0
+                },
+                {
+                  "code": "XE23A117/X2-63",
+                  "parentcode": "XE23A117#",
+                  "name-mr": "",
+                  "name-en": "",
+                  "count": 1,
+                  "name": "XE23A117/X2-63",
+                  "level": "4",
+                  "subitems": 0
+                },
+                {
+                  "code": "XE23A117/X2-64",
+                  "parentcode": "XE23A117#",
+                  "name-mr": "",
+                  "name-en": "",
+                  "count": 1,
+                  "name": "XE23A117/X2-64",
+                  "level": "4",
+                  "subitems": 0
+                },
+                {
+                  "code": "XE23A117/X2-65",
+                  "parentcode": "XE23A117#",
+                  "name-mr": "",
+                  "name-en": "",
+                  "count": 1,
+                  "name": "XE23A117/X2-65",
+                  "level": "4",
+                  "subitems": 0
+                },
+                {
+                  "code": "XE23A117/X2-66",
+                  "parentcode": "XE23A117#",
+                  "name-mr": "",
+                  "name-en": "",
+                  "count": 1,
+                  "name": "XE23A117/X2-66",
+                  "level": "4",
+                  "subitems": 0
+                },
+                {
+                  "code": "XE23A117/X2-67",
+                  "parentcode": "XE23A117#",
+                  "name-mr": "",
+                  "name-en": "",
+                  "count": 1,
+                  "name": "XE23A117/X2-67",
+                  "level": "4",
+                  "subitems": 0
+                },
+                {
+                  "code": "XE23A117/X2-68",
+                  "parentcode": "XE23A117#",
+                  "name-mr": "",
+                  "name-en": "",
+                  "count": 1,
+                  "name": "XE23A117/X2-68",
+                  "level": "4",
+                  "subitems": 0
+                },
+                {
+                  "code": "XE23A117/X2-69",
+                  "parentcode": "XE23A117#",
+                  "name-mr": "",
+                  "name-en": "",
+                  "count": 1,
+                  "name": "XE23A117/X2-69",
+                  "level": "4",
+                  "subitems": 0
+                },
+                {
+                  "code": "XE23A117/X2-70",
+                  "parentcode": "XE23A117#",
+                  "name-mr": "",
+                  "name-en": "",
+                  "count": 1,
+                  "name": "XE23A117/X2-70",
+                  "level": "4",
+                  "subitems": 0
+                },
+                {
+                  "code": "XE23A117/X2-71",
+                  "parentcode": "XE23A117#",
+                  "name-mr": "",
+                  "name-en": "",
+                  "count": 1,
+                  "name": "XE23A117/X2-71",
+                  "level": "4",
+                  "subitems": 0
+                },
+                {
+                  "code": "XE23A117/X2-72",
+                  "parentcode": "XE23A117#",
+                  "name-mr": "",
+                  "name-en": "",
+                  "count": 1,
+                  "name": "XE23A117/X2-72",
+                  "level": "4",
+                  "subitems": 0
+                },
+                {
+                  "code": "XE23A117/X2-73",
+                  "parentcode": "XE23A117#",
+                  "name-mr": "",
+                  "name-en": "",
+                  "count": 1,
+                  "name": "XE23A117/X2-73",
+                  "level": "4",
+                  "subitems": 0
+                },
+                {
+                  "code": "XE23A117/X2-74",
+                  "parentcode": "XE23A117#",
+                  "name-mr": "",
+                  "name-en": "",
+                  "count": 1,
+                  "name": "XE23A117/X2-74",
+                  "level": "4",
+                  "subitems": 0
+                },
+                {
+                  "code": "XE23A117/X2-75",
+                  "parentcode": "XE23A117#",
+                  "name-mr": "",
+                  "name-en": "",
+                  "count": 1,
+                  "name": "XE23A117/X2-75",
+                  "level": "4",
+                  "subitems": 0
+                },
+                {
+                  "code": "XE23A117/X2-76",
+                  "parentcode": "XE23A117#",
+                  "name-mr": "",
+                  "name-en": "",
+                  "count": 1,
+                  "name": "XE23A117/X2-76",
+                  "level": "4",
+                  "subitems": 0
+                }
+              ]
+            },
+            {
+              "code": "XE23A###A",
+              "parentcode": "XE23A",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE23A###A",
+              "level": "3",
+              "subitems": 0
+            }
+          ]
+        },
+        {
+          "code": "XE23B",
+          "parentcode": "XE23",
+          "name-mr": "ख. भुयारी गटारांतील पाणी उपसण्याचे स्थान",
+          "name-en": "Underground gutter water pumping station",
+          "count": 9,
+          "name": "XE23B",
+          "level": "2",
+          "subitems": 9,
+          "children": [
+            {
+              "code": "XE23B101A",
+              "parentcode": "XE23B",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE23B101A",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE23B103",
+              "parentcode": "XE23B",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE23B103",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE23B104",
+              "parentcode": "XE23B",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE23B104",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE23B105",
+              "parentcode": "XE23B",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE23B105",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE23B106",
+              "parentcode": "XE23B",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE23B106",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE23B107",
+              "parentcode": "XE23B",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE23B107",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE23B110",
+              "parentcode": "XE23B",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE23B110",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE23B112",
+              "parentcode": "XE23B",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE23B112",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE23B113",
+              "parentcode": "XE23B",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE23B113",
+              "level": "3",
+              "subitems": 0
+            }
+          ]
+        },
+        {
+          "code": "XE23C",
+          "parentcode": "XE23",
+          "name-mr": "ग. मैलापाणी शुद्धीकरण केंद्र (डॉ. नायडू हॉस्पिटल आवार)",
+          "name-en": "C. Mailapani Refineries (Dr. Naidu Hospital Campus)",
+          "count": 12,
+          "name": "XE23C",
+          "level": "2",
+          "subitems": 12,
+          "children": [
+            {
+              "code": "XE23C101A",
+              "parentcode": "XE23C",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE23C101A",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE23C102",
+              "parentcode": "XE23C",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE23C102",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE23C103",
+              "parentcode": "XE23C",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE23C103",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE23C104",
+              "parentcode": "XE23C",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE23C104",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE23C105",
+              "parentcode": "XE23C",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE23C105",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE23C106",
+              "parentcode": "XE23C",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE23C106",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE23C107",
+              "parentcode": "XE23C",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE23C107",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE23C108",
+              "parentcode": "XE23C",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE23C108",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE23C109",
+              "parentcode": "XE23C",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE23C109",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE23C110",
+              "parentcode": "XE23C",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE23C110",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE23C111",
+              "parentcode": "XE23C",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE23C111",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE23C117",
+              "parentcode": "XE23C",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE23C117",
+              "level": "3",
+              "subitems": 0
+            }
+          ]
+        },
+        {
+          "code": "XE23D",
+          "parentcode": "XE23",
+          "name-mr": "घ. बहिरोबा पंपिंग स्टेशन",
+          "name-en": "Bahiroba pumping station",
+          "count": 24,
+          "name": "XE23D",
+          "level": "2",
+          "subitems": 24,
+          "children": [
+            {
+              "code": "XE23D101A",
+              "parentcode": "XE23D",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE23D101A",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE23D102",
+              "parentcode": "XE23D",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE23D102",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE23D105",
+              "parentcode": "XE23D",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE23D105",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE23D107",
+              "parentcode": "XE23D",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE23D107",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE23D108",
+              "parentcode": "XE23D",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE23D108",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE23D111",
+              "parentcode": "XE23D",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE23D111",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE23D112",
+              "parentcode": "XE23D",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE23D112",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE23D113",
+              "parentcode": "XE23D",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE23D113",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE23D114",
+              "parentcode": "XE23D",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE23D114",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE23D117",
+              "parentcode": "XE23D",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE23D117",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE23D118A",
+              "parentcode": "XE23D",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE23D118A",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE23D118B",
+              "parentcode": "XE23D",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE23D118B",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE23D118C",
+              "parentcode": "XE23D",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE23D118C",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE23D118D",
+              "parentcode": "XE23D",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE23D118D",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE23D118E",
+              "parentcode": "XE23D",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE23D118E",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE23D118F",
+              "parentcode": "XE23D",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE23D118F",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE23D118G",
+              "parentcode": "XE23D",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE23D118G",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE23D118H",
+              "parentcode": "XE23D",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE23D118H",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE23D118I",
+              "parentcode": "XE23D",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE23D118I",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE23D118J",
+              "parentcode": "XE23D",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE23D118J",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE23D118K",
+              "parentcode": "XE23D",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE23D118K",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE23D118L",
+              "parentcode": "XE23D",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE23D118L",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE23D118M",
+              "parentcode": "XE23D",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE23D118M",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "XE23D119",
+              "parentcode": "XE23D",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "XE23D119",
+              "level": "3",
+              "subitems": 0
+            }
+          ]
+        },
+        {
+          "code": "XE23E101",
+          "parentcode": "XE23",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "XE23E101",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "XE23F101",
+          "parentcode": "XE23",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "XE23F101",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "XE23G101",
+          "parentcode": "XE23",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "XE23G101",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "XE23H101",
+          "parentcode": "XE23",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "XE23H101",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "XE23J101",
+          "parentcode": "XE23",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "XE23J101",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "XE23K101",
+          "parentcode": "XE23",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "XE23K101",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "XE23Z101",
+          "parentcode": "XE23",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "XE23Z101",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "XE23X101",
+          "parentcode": "XE23",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "XE23X101",
+          "level": "2",
+          "subitems": 0
+        }
+      ]
+    },
+    {
+      "code": "XE41X101",
+      "parentcode": "XE",
+      "name-mr": "",
+      "name-en": "",
+      "count": 1,
+      "name": "XE41X101",
+      "level": "1",
+      "subitems": 0
+    },
+    {
+      "code": "XE41X102",
+      "parentcode": "XE",
+      "name-mr": "",
+      "name-en": "",
+      "count": 1,
+      "name": "XE41X102",
+      "level": "1",
+      "subitems": 0
+    }
+  ]
+}

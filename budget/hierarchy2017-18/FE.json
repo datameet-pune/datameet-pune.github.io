@@ -1,0 +1,5754 @@
+{
+  "code": "FE",
+  "parentcode": "ROOT",
+  "name-mr": "",
+  "name-en": "",
+  "count": 549,
+  "name": "FE",
+  "level": "0",
+  "subitems": 12,
+  "children": [
+    {
+      "code": "FE11A",
+      "parentcode": "FE",
+      "name-mr": "भूमी संपादन निधीतून करावयाचा खर्च",
+      "name-en": "Land Acquisition fund",
+      "count": 12,
+      "name": "FE11A",
+      "level": "1",
+      "subitems": 12,
+      "children": [
+        {
+          "code": "FE11A101",
+          "parentcode": "FE11A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE11A101",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE11A102",
+          "parentcode": "FE11A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE11A102",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE11A102A",
+          "parentcode": "FE11A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE11A102A",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE11A103",
+          "parentcode": "FE11A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE11A103",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE11A104",
+          "parentcode": "FE11A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE11A104",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE11A105",
+          "parentcode": "FE11A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE11A105",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE11A106",
+          "parentcode": "FE11A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE11A106",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE11A107",
+          "parentcode": "FE11A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE11A107",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE11A108",
+          "parentcode": "FE11A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE11A108",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE11A109",
+          "parentcode": "FE11A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE11A109",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE11A110",
+          "parentcode": "FE11A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE11A110",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE11A111",
+          "parentcode": "FE11A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE11A111",
+          "level": "2",
+          "subitems": 0
+        }
+      ]
+    },
+    {
+      "code": "FE14A",
+      "parentcode": "FE",
+      "name-mr": "४. झोपडपट्टी निर्मूलन व पुनर्वसन निधीतून करावयाची कामे",
+      "name-en": "Slum Removal and Rehabilitation fund",
+      "count": 267,
+      "name": "FE14A",
+      "level": "1",
+      "subitems": 12,
+      "children": [
+        {
+          "code": "FE14A101#",
+          "parentcode": "FE14A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 26,
+          "name": "FE14A101#",
+          "level": "2",
+          "subitems": 26,
+          "children": [
+            {
+              "code": "FE14A101/SG1-301",
+              "parentcode": "FE14A101#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A101/SG1-301",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A101/SG1-302",
+              "parentcode": "FE14A101#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A101/SG1-302",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A101/SG1-303",
+              "parentcode": "FE14A101#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A101/SG1-303",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A101/SG1-304",
+              "parentcode": "FE14A101#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A101/SG1-304",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A101/SG1-305",
+              "parentcode": "FE14A101#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A101/SG1-305",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A101/SG1-306",
+              "parentcode": "FE14A101#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A101/SG1-306",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A101/SG1-307",
+              "parentcode": "FE14A101#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A101/SG1-307",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A101/SG1-308",
+              "parentcode": "FE14A101#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A101/SG1-308",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A101/SG1-309",
+              "parentcode": "FE14A101#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A101/SG1-309",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A101/SG1-310",
+              "parentcode": "FE14A101#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A101/SG1-310",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A101/SG1-311",
+              "parentcode": "FE14A101#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A101/SG1-311",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A101/SG1-312",
+              "parentcode": "FE14A101#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A101/SG1-312",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A101/SG1-313",
+              "parentcode": "FE14A101#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A101/SG1-313",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A101/SG1-314",
+              "parentcode": "FE14A101#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A101/SG1-314",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A101/SG1-315",
+              "parentcode": "FE14A101#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A101/SG1-315",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A101/SG1-316",
+              "parentcode": "FE14A101#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A101/SG1-316",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A101/SG1-317",
+              "parentcode": "FE14A101#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A101/SG1-317",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A101/SG1-318",
+              "parentcode": "FE14A101#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A101/SG1-318",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A101/SG1-319",
+              "parentcode": "FE14A101#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A101/SG1-319",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A101/SG1-320",
+              "parentcode": "FE14A101#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A101/SG1-320",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A101/SG1-321",
+              "parentcode": "FE14A101#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A101/SG1-321",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A101/SG1-322",
+              "parentcode": "FE14A101#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A101/SG1-322",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A101/SG1-323",
+              "parentcode": "FE14A101#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A101/SG1-323",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A101/SG1-324",
+              "parentcode": "FE14A101#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A101/SG1-324",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A101/SG1-325",
+              "parentcode": "FE14A101#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A101/SG1-325",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A101/SG1-326",
+              "parentcode": "FE14A101#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A101/SG1-326",
+              "level": "3",
+              "subitems": 0
+            }
+          ]
+        },
+        {
+          "code": "FE14A104",
+          "parentcode": "FE14A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE14A104",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE14A105#",
+          "parentcode": "FE14A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 231,
+          "name": "FE14A105#",
+          "level": "2",
+          "subitems": 231,
+          "children": [
+            {
+              "code": "FE14A105/SG2-101",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-101",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-102",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-102",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-103",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-103",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-104",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-104",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-105",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-105",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-106",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-106",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-107",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-107",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-108",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-108",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-109",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-109",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-110",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-110",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-111",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-111",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-112",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-112",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-113",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-113",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-114",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-114",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-115",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-115",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-116",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-116",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-117",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-117",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-118",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-118",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-119",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-119",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-120",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-120",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-121",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-121",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-122",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-122",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-123",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-123",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-124",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-124",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-125",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-125",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-126",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-126",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-127",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-127",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-128",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-128",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-129",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-129",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-130",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-130",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-131",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-131",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-132",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-132",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-133",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-133",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-134",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-134",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-135",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-135",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-136",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-136",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-137",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-137",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-138",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-138",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-139",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-139",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-140",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-140",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-141",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-141",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-142",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-142",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-143",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-143",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-144",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-144",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-145",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-145",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-146",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-146",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-147",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-147",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-148",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-148",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-149",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-149",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-150",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-150",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-151",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-151",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-152",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-152",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-153",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-153",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-154",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-154",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-155",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-155",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-156",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-156",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-157",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-157",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-158",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-158",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-159",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-159",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-160",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-160",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-161",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-161",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-162",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-162",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-163",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-163",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-164",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-164",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-165",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-165",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-166",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-166",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-167",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-167",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-168",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-168",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-169",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-169",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-170",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-170",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-171",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-171",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-172",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-172",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-173",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-173",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-174",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-174",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-175",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-175",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-176",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-176",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-177",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-177",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-178",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-178",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-179",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-179",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-180",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-180",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-181",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-181",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-182",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-182",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-183",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-183",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-184",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-184",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-185",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-185",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-186",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-186",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-187",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-187",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-188",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-188",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-189",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-189",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-190",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-190",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-191",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-191",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-192",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-192",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-193",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-193",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-194",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-194",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-195",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-195",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-196",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-196",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-197",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-197",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-198",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-198",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-199",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-199",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-200",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-200",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-201",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-201",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-202",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-202",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-203",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-203",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-204",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-204",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-205",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-205",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-206",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-206",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-207",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-207",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-208",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-208",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-209",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-209",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-210",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-210",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-211",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-211",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-212",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-212",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-213",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-213",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-214",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-214",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-215",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-215",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-216",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-216",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-217",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-217",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-218",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-218",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-219",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-219",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-220",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-220",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-221",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-221",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-222",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-222",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-223",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-223",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-224",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-224",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-225",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-225",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-226",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-226",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-227",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-227",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-228",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-228",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-229",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-229",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-230",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-230",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-231",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-231",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-232",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-232",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-233",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-233",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-234",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-234",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-235",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-235",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-236",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-236",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-237",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-237",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-238",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-238",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-239",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-239",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-240",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-240",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-241",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-241",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-242",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-242",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-243",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-243",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-244",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-244",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-245",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-245",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-246",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-246",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-247",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-247",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-248",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-248",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-249",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-249",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-250",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-250",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-251",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-251",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-252",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-252",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-253",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-253",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-254",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-254",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-255",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-255",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-256",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-256",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-257",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-257",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-258",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-258",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-259",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-259",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-260",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-260",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-261",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-261",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-262",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-262",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-263",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-263",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-264",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-264",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-265",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-265",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-266",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-266",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-267",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-267",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-268",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-268",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-269",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-269",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-270",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-270",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-271",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-271",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-272",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-272",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-273",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-273",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-274",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-274",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-275",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-275",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-276",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-276",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-277",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-277",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-278",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-278",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-279",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-279",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-280",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-280",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-281",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-281",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-282",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-282",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-283",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-283",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-284",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-284",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-285",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-285",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-286",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-286",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-287",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-287",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-288",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-288",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-289",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-289",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-290",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-290",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-291",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-291",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-292",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-292",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-293",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-293",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-294",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-294",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-295",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-295",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-296",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-296",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-297",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-297",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-298",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-298",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-299",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-299",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-300",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-300",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-301",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-301",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-302",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-302",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-303",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-303",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-304",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-304",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-305",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-305",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-306",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-306",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-307",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-307",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-308",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-308",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-309",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-309",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-310",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-310",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-311",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-311",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-312",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-312",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-313",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-313",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-314",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-314",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-315",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-315",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-316",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-316",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-317",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-317",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-318",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-318",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-319",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-319",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-320",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-320",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-321",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-321",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-322",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-322",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-323",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-323",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-324",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-324",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-325",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-325",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-326",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-326",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-327",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-327",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-328",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-328",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-329",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-329",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-330",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-330",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14A105/SG2-331",
+              "parentcode": "FE14A105#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14A105/SG2-331",
+              "level": "3",
+              "subitems": 0
+            }
+          ]
+        },
+        {
+          "code": "FE14A107",
+          "parentcode": "FE14A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE14A107",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE14A129",
+          "parentcode": "FE14A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE14A129",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE14A130",
+          "parentcode": "FE14A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE14A130",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE14A131",
+          "parentcode": "FE14A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE14A131",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE14A132",
+          "parentcode": "FE14A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE14A132",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FEMSC001",
+          "parentcode": "FE14A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FEMSC001",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE14A134",
+          "parentcode": "FE14A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE14A134",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE14A118#",
+          "parentcode": "FE14A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE14A118#",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE14A121#",
+          "parentcode": "FE14A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE14A121#",
+          "level": "2",
+          "subitems": 0
+        }
+      ]
+    },
+    {
+      "code": "FE14B",
+      "parentcode": "FE",
+      "name-mr": "४अ. मागासवर्गीय कल्याणकारी योजना निधी",
+      "name-en": "Backward class welfare project fund",
+      "count": 10,
+      "name": "FE14B",
+      "level": "1",
+      "subitems": 10,
+      "children": [
+        {
+          "code": "FE14B101",
+          "parentcode": "FE14B",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE14B101",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE14B112",
+          "parentcode": "FE14B",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE14B112",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE14B113",
+          "parentcode": "FE14B",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE14B113",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE14B121",
+          "parentcode": "FE14B",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE14B121",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE14B122",
+          "parentcode": "FE14B",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE14B122",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE14B123",
+          "parentcode": "FE14B",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE14B123",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE14B126",
+          "parentcode": "FE14B",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE14B126",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE14B127",
+          "parentcode": "FE14B",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE14B127",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE14B128",
+          "parentcode": "FE14B",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE14B128",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE14B129",
+          "parentcode": "FE14B",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE14B129",
+          "level": "2",
+          "subitems": 0
+        }
+      ]
+    },
+    {
+      "code": "FE14C",
+      "parentcode": "FE",
+      "name-mr": "४ब. महिलाबालकल्याण योजना निधी",
+      "name-en": "Women and child welfare Scheme fund",
+      "count": 47,
+      "name": "FE14C",
+      "level": "1",
+      "subitems": 31,
+      "children": [
+        {
+          "code": "FE14C101",
+          "parentcode": "FE14C",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE14C101",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE14C108",
+          "parentcode": "FE14C",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE14C108",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE14C116",
+          "parentcode": "FE14C",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE14C116",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE14C117",
+          "parentcode": "FE14C",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE14C117",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE14C118",
+          "parentcode": "FE14C",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE14C118",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE14C125#",
+          "parentcode": "FE14C",
+          "name-mr": "",
+          "name-en": "",
+          "count": 17,
+          "name": "FE14C125#",
+          "level": "2",
+          "subitems": 17,
+          "children": [
+            {
+              "code": "FE14C125/M1-1",
+              "parentcode": "FE14C125#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14C125/M1-1",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14C125/SM1-26",
+              "parentcode": "FE14C125#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14C125/SM1-26",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14C125/SM1-35",
+              "parentcode": "FE14C125#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14C125/SM1-35",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14C125/SM1-51",
+              "parentcode": "FE14C125#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14C125/SM1-51",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14C125/SM1-52",
+              "parentcode": "FE14C125#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14C125/SM1-52",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14C125/SM1-53",
+              "parentcode": "FE14C125#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14C125/SM1-53",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14C125/SM1-54",
+              "parentcode": "FE14C125#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14C125/SM1-54",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14C125/SM1-55",
+              "parentcode": "FE14C125#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14C125/SM1-55",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14C125/SM1-56",
+              "parentcode": "FE14C125#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14C125/SM1-56",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14C125/SM1-57",
+              "parentcode": "FE14C125#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14C125/SM1-57",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14C125/SM1-58",
+              "parentcode": "FE14C125#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14C125/SM1-58",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14C125/SM1-59",
+              "parentcode": "FE14C125#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14C125/SM1-59",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14C125/SM1-60",
+              "parentcode": "FE14C125#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14C125/SM1-60",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14C125/SM1-61",
+              "parentcode": "FE14C125#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14C125/SM1-61",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14C125/SM1-62",
+              "parentcode": "FE14C125#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14C125/SM1-62",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14C125/SM1-63",
+              "parentcode": "FE14C125#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14C125/SM1-63",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE14C125/SM1-64",
+              "parentcode": "FE14C125#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE14C125/SM1-64",
+              "level": "3",
+              "subitems": 0
+            }
+          ]
+        },
+        {
+          "code": "FE14C134",
+          "parentcode": "FE14C",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE14C134",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE14C135",
+          "parentcode": "FE14C",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE14C135",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE14C136",
+          "parentcode": "FE14C",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE14C136",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE14C138",
+          "parentcode": "FE14C",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE14C138",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE14C139",
+          "parentcode": "FE14C",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE14C139",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE14C140",
+          "parentcode": "FE14C",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE14C140",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE14C142",
+          "parentcode": "FE14C",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE14C142",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE14C143",
+          "parentcode": "FE14C",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE14C143",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE14C146",
+          "parentcode": "FE14C",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE14C146",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE14C147",
+          "parentcode": "FE14C",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE14C147",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE14C155",
+          "parentcode": "FE14C",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE14C155",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE14C156",
+          "parentcode": "FE14C",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE14C156",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE14C160",
+          "parentcode": "FE14C",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE14C160",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE14C187",
+          "parentcode": "FE14C",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE14C187",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE14C188",
+          "parentcode": "FE14C",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE14C188",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE14C189",
+          "parentcode": "FE14C",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE14C189",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE14C190",
+          "parentcode": "FE14C",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE14C190",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE14C191",
+          "parentcode": "FE14C",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE14C191",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE14C192",
+          "parentcode": "FE14C",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE14C192",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE14C193",
+          "parentcode": "FE14C",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE14C193",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE14C201",
+          "parentcode": "FE14C",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE14C201",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE14C202",
+          "parentcode": "FE14C",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE14C202",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE14C205",
+          "parentcode": "FE14C",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE14C205",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE14C208",
+          "parentcode": "FE14C",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE14C208",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE14C209",
+          "parentcode": "FE14C",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE14C209",
+          "level": "2",
+          "subitems": 0
+        }
+      ]
+    },
+    {
+      "code": "FE14D",
+      "parentcode": "FE",
+      "name-mr": "४क. युवक कल्याणकारी योजना निधी (नागरवस्ती विकास योजना)",
+      "name-en": "Youth welfare Scheme fund (Nagarvasti development scheme)",
+      "count": 14,
+      "name": "FE14D",
+      "level": "1",
+      "subitems": 14,
+      "children": [
+        {
+          "code": "FE14D101",
+          "parentcode": "FE14D",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE14D101",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE14D118",
+          "parentcode": "FE14D",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE14D118",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE14D121",
+          "parentcode": "FE14D",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE14D121",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE14D122",
+          "parentcode": "FE14D",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE14D122",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE14D123",
+          "parentcode": "FE14D",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE14D123",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE14D124",
+          "parentcode": "FE14D",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE14D124",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE14D125",
+          "parentcode": "FE14D",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE14D125",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE14D126",
+          "parentcode": "FE14D",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE14D126",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE14D128",
+          "parentcode": "FE14D",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE14D128",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE14D129",
+          "parentcode": "FE14D",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE14D129",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE14D133",
+          "parentcode": "FE14D",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE14D133",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE14D134",
+          "parentcode": "FE14D",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE14D134",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE14D135",
+          "parentcode": "FE14D",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE14D135",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE14D136",
+          "parentcode": "FE14D",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE14D136",
+          "level": "2",
+          "subitems": 0
+        }
+      ]
+    },
+    {
+      "code": "FE14E",
+      "parentcode": "FE",
+      "name-mr": "४ड. अपंग कल्याणकारी योजना निधी",
+      "name-en": "Handicapped welfare scheme fund",
+      "count": 6,
+      "name": "FE14E",
+      "level": "1",
+      "subitems": 6,
+      "children": [
+        {
+          "code": "FE14E101",
+          "parentcode": "FE14E",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE14E101",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE14E110",
+          "parentcode": "FE14E",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE14E110",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE14E113",
+          "parentcode": "FE14E",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE14E113",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE14E114",
+          "parentcode": "FE14E",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE14E114",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE14E115",
+          "parentcode": "FE14E",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE14E115",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE14E116",
+          "parentcode": "FE14E",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE14E116",
+          "level": "2",
+          "subitems": 0
+        }
+      ]
+    },
+    {
+      "code": "FE15A",
+      "parentcode": "FE",
+      "name-mr": "५. पुणे जिल्हा नियोजन व विकास मंडळ निधीतून करावयाची कामे",
+      "name-en": "Pune distrct planning & Development Fund",
+      "count": 15,
+      "name": "FE15A",
+      "level": "1",
+      "subitems": 15,
+      "children": [
+        {
+          "code": "FE15A101",
+          "parentcode": "FE15A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE15A101",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE15A102",
+          "parentcode": "FE15A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE15A102",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE15A103",
+          "parentcode": "FE15A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE15A103",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE15A104",
+          "parentcode": "FE15A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE15A104",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE15A105",
+          "parentcode": "FE15A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE15A105",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE15A106",
+          "parentcode": "FE15A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE15A106",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE15A107",
+          "parentcode": "FE15A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE15A107",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE15A108",
+          "parentcode": "FE15A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE15A108",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE15A110",
+          "parentcode": "FE15A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE15A110",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE15A111",
+          "parentcode": "FE15A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE15A111",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE15A112",
+          "parentcode": "FE15A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE15A112",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE15A113",
+          "parentcode": "FE15A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE15A113",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE15A114",
+          "parentcode": "FE15A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE15A114",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE15A115",
+          "parentcode": "FE15A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE15A115",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE15A116",
+          "parentcode": "FE15A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE15A116",
+          "level": "2",
+          "subitems": 0
+        }
+      ]
+    },
+    {
+      "code": "FE17A",
+      "parentcode": "FE",
+      "name-mr": "अग्निशामक दलासाठी यंत्रसामुग्री :-",
+      "name-en": "Purchase of New machinery from machinery depreciation fund",
+      "count": 113,
+      "name": "FE17A",
+      "level": "1",
+      "subitems": 78,
+      "children": [
+        {
+          "code": "FE17A103-1",
+          "parentcode": "FE17A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE17A103-1",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE17A103-2",
+          "parentcode": "FE17A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE17A103-2",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE17A103-4",
+          "parentcode": "FE17A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE17A103-4",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE17A103-12",
+          "parentcode": "FE17A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE17A103-12",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE17A103-25",
+          "parentcode": "FE17A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE17A103-25",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE17A103-30",
+          "parentcode": "FE17A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE17A103-30",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE17A103-31",
+          "parentcode": "FE17A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE17A103-31",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE17A103-32",
+          "parentcode": "FE17A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE17A103-32",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE17A107-22",
+          "parentcode": "FE17A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE17A107-22",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE17A107-23",
+          "parentcode": "FE17A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE17A107-23",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE17A113-6",
+          "parentcode": "FE17A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE17A113-6",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE17A114-6",
+          "parentcode": "FE17A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE17A114-6",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE17A114-9",
+          "parentcode": "FE17A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE17A114-9",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE17A114-10",
+          "parentcode": "FE17A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE17A114-10",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE17A124",
+          "parentcode": "FE17A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE17A124",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE17A146",
+          "parentcode": "FE17A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE17A146",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE17A149-3",
+          "parentcode": "FE17A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE17A149-3",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE17A149-4",
+          "parentcode": "FE17A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE17A149-4",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE17A149-13",
+          "parentcode": "FE17A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE17A149-13",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE17A150",
+          "parentcode": "FE17A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE17A150",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE17A177",
+          "parentcode": "FE17A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE17A177",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE17A190",
+          "parentcode": "FE17A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE17A190",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE17A198",
+          "parentcode": "FE17A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE17A198",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE17A208",
+          "parentcode": "FE17A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE17A208",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE17A209",
+          "parentcode": "FE17A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE17A209",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE17A211",
+          "parentcode": "FE17A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE17A211",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE17A212",
+          "parentcode": "FE17A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE17A212",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE17A213",
+          "parentcode": "FE17A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE17A213",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE17A214",
+          "parentcode": "FE17A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE17A214",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE17A215",
+          "parentcode": "FE17A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE17A215",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE17A216",
+          "parentcode": "FE17A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE17A216",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE17A217",
+          "parentcode": "FE17A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE17A217",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE17A219",
+          "parentcode": "FE17A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE17A219",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE17A235",
+          "parentcode": "FE17A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE17A235",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE17A236",
+          "parentcode": "FE17A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE17A236",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE17A237",
+          "parentcode": "FE17A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE17A237",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE17A238",
+          "parentcode": "FE17A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE17A238",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE17A240",
+          "parentcode": "FE17A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE17A240",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE17A241",
+          "parentcode": "FE17A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE17A241",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE17A242",
+          "parentcode": "FE17A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE17A242",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE17A243",
+          "parentcode": "FE17A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE17A243",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE17A246",
+          "parentcode": "FE17A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE17A246",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE17A248",
+          "parentcode": "FE17A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE17A248",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE17A249",
+          "parentcode": "FE17A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE17A249",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE17A250",
+          "parentcode": "FE17A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE17A250",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE17A252",
+          "parentcode": "FE17A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE17A252",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE17A253",
+          "parentcode": "FE17A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE17A253",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE17A254",
+          "parentcode": "FE17A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE17A254",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE17A255",
+          "parentcode": "FE17A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE17A255",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE17A256",
+          "parentcode": "FE17A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE17A256",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE17A257",
+          "parentcode": "FE17A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE17A257",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE17A259",
+          "parentcode": "FE17A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE17A259",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE17A260",
+          "parentcode": "FE17A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE17A260",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE17A261",
+          "parentcode": "FE17A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE17A261",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE17A262",
+          "parentcode": "FE17A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE17A262",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE17A263",
+          "parentcode": "FE17A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE17A263",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE17A264",
+          "parentcode": "FE17A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE17A264",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE17A265",
+          "parentcode": "FE17A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE17A265",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE17A266",
+          "parentcode": "FE17A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE17A266",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE17A267",
+          "parentcode": "FE17A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE17A267",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE17A268",
+          "parentcode": "FE17A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE17A268",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE17A270",
+          "parentcode": "FE17A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE17A270",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE17A271",
+          "parentcode": "FE17A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE17A271",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE17A272",
+          "parentcode": "FE17A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE17A272",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE17A273",
+          "parentcode": "FE17A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE17A273",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE17A275",
+          "parentcode": "FE17A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE17A275",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE17A276",
+          "parentcode": "FE17A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE17A276",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE17A277#",
+          "parentcode": "FE17A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 36,
+          "name": "FE17A277#",
+          "level": "2",
+          "subitems": 36,
+          "children": [
+            {
+              "code": "FE17A277/SY1-51",
+              "parentcode": "FE17A277#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE17A277/SY1-51",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE17A277/SY1-52",
+              "parentcode": "FE17A277#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE17A277/SY1-52",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE17A277/SY1-53",
+              "parentcode": "FE17A277#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE17A277/SY1-53",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE17A277/SY1-54",
+              "parentcode": "FE17A277#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE17A277/SY1-54",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE17A277/SY1-55",
+              "parentcode": "FE17A277#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE17A277/SY1-55",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE17A277/SY1-56",
+              "parentcode": "FE17A277#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE17A277/SY1-56",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE17A277/SY1-57",
+              "parentcode": "FE17A277#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE17A277/SY1-57",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE17A277/SY1-58",
+              "parentcode": "FE17A277#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE17A277/SY1-58",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE17A277/SY1-59",
+              "parentcode": "FE17A277#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE17A277/SY1-59",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE17A277/SY1-60",
+              "parentcode": "FE17A277#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE17A277/SY1-60",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE17A277/SY1-61",
+              "parentcode": "FE17A277#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE17A277/SY1-61",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE17A277/SY1-62",
+              "parentcode": "FE17A277#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE17A277/SY1-62",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE17A277/SY1-63",
+              "parentcode": "FE17A277#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE17A277/SY1-63",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE17A277/SY1-64",
+              "parentcode": "FE17A277#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE17A277/SY1-64",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE17A277/SY1-65",
+              "parentcode": "FE17A277#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE17A277/SY1-65",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE17A277/SY1-66",
+              "parentcode": "FE17A277#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE17A277/SY1-66",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE17A277/SY1-67",
+              "parentcode": "FE17A277#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE17A277/SY1-67",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE17A277/SY1-68",
+              "parentcode": "FE17A277#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE17A277/SY1-68",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE17A277/SY1-69",
+              "parentcode": "FE17A277#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE17A277/SY1-69",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE17A277/SY1-70",
+              "parentcode": "FE17A277#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE17A277/SY1-70",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE17A277/SY1-71",
+              "parentcode": "FE17A277#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE17A277/SY1-71",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE17A277/SY1-72",
+              "parentcode": "FE17A277#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE17A277/SY1-72",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE17A277/SY1-73",
+              "parentcode": "FE17A277#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE17A277/SY1-73",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE17A277/SY1-74",
+              "parentcode": "FE17A277#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE17A277/SY1-74",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE17A277/SY1-75",
+              "parentcode": "FE17A277#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE17A277/SY1-75",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE17A277/SY1-76",
+              "parentcode": "FE17A277#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE17A277/SY1-76",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE17A277/SY1-77",
+              "parentcode": "FE17A277#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE17A277/SY1-77",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE17A277/SY1-78",
+              "parentcode": "FE17A277#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE17A277/SY1-78",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE17A277/SY1-79",
+              "parentcode": "FE17A277#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE17A277/SY1-79",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE17A277/SY1-80",
+              "parentcode": "FE17A277#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE17A277/SY1-80",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE17A277/SY1-81",
+              "parentcode": "FE17A277#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE17A277/SY1-81",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE17A277/SY1-82",
+              "parentcode": "FE17A277#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE17A277/SY1-82",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE17A277/SY1-83",
+              "parentcode": "FE17A277#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE17A277/SY1-83",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE17A277/SY1-84",
+              "parentcode": "FE17A277#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE17A277/SY1-84",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE17A277/SY1-85",
+              "parentcode": "FE17A277#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE17A277/SY1-85",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE17A277/SY1-86",
+              "parentcode": "FE17A277#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE17A277/SY1-86",
+              "level": "3",
+              "subitems": 0
+            }
+          ]
+        },
+        {
+          "code": "FE17A278",
+          "parentcode": "FE17A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE17A278",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE17A279",
+          "parentcode": "FE17A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE17A279",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE17A280",
+          "parentcode": "FE17A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE17A280",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE17A281",
+          "parentcode": "FE17A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE17A281",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE17A282",
+          "parentcode": "FE17A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE17A282",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE17A283",
+          "parentcode": "FE17A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE17A283",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE17A284",
+          "parentcode": "FE17A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE17A284",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE17A285",
+          "parentcode": "FE17A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE17A285",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE17A286",
+          "parentcode": "FE17A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE17A286",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE17A298",
+          "parentcode": "FE17A",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE17A298",
+          "level": "2",
+          "subitems": 0
+        }
+      ]
+    },
+    {
+      "code": "FE20",
+      "parentcode": "FE",
+      "name-mr": "१०. वृक्ष संरक्षण व संवर्धन प्राधिकारी निधीतून (अ‍ॅथॉरिटी फंडातून) करावयाचा खर्च",
+      "name-en": "Tree Authority",
+      "count": 33,
+      "name": "FE20",
+      "level": "1",
+      "subitems": 25,
+      "children": [
+        {
+          "code": "FE20A",
+          "parentcode": "FE20",
+          "name-mr": "१०क. वृक्ष संवर्धन व संरक्षण कार्यालयाकडील खर्च :-",
+          "name-en": "Tree Authority",
+          "count": 2,
+          "name": "FE20A",
+          "level": "2",
+          "subitems": 2,
+          "children": [
+            {
+              "code": "FE20A101A",
+              "parentcode": "FE20A",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE20A101A",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE20A102A",
+              "parentcode": "FE20A",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE20A102A",
+              "level": "3",
+              "subitems": 0
+            }
+          ]
+        },
+        {
+          "code": "FE20C",
+          "parentcode": "FE20",
+          "name-mr": "१०ग. संकीर्ण :-",
+          "name-en": "",
+          "count": 8,
+          "name": "FE20C",
+          "level": "2",
+          "subitems": 8,
+          "children": [
+            {
+              "code": "FE20C101",
+              "parentcode": "FE20C",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE20C101",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE20C102",
+              "parentcode": "FE20C",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE20C102",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE20C103",
+              "parentcode": "FE20C",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE20C103",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE20C104",
+              "parentcode": "FE20C",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE20C104",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE20C105",
+              "parentcode": "FE20C",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE20C105",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE20C106",
+              "parentcode": "FE20C",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE20C106",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE20C107",
+              "parentcode": "FE20C",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE20C107",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE20C108",
+              "parentcode": "FE20C",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE20C108",
+              "level": "3",
+              "subitems": 0
+            }
+          ]
+        },
+        {
+          "code": "FE20D101",
+          "parentcode": "FE20",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE20D101",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE20Q101",
+          "parentcode": "FE20",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE20Q101",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE20E101",
+          "parentcode": "FE20",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE20E101",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE20G101",
+          "parentcode": "FE20",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE20G101",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE20H101",
+          "parentcode": "FE20",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE20H101",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE20I101",
+          "parentcode": "FE20",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE20I101",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE20K101",
+          "parentcode": "FE20",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE20K101",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE20L101",
+          "parentcode": "FE20",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE20L101",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE20M101",
+          "parentcode": "FE20",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE20M101",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE20N101",
+          "parentcode": "FE20",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE20N101",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE20P101",
+          "parentcode": "FE20",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE20P101",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE20P103",
+          "parentcode": "FE20",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE20P103",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE20P104",
+          "parentcode": "FE20",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE20P104",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE20P106",
+          "parentcode": "FE20",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE20P106",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE20P108",
+          "parentcode": "FE20",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE20P108",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE20P109",
+          "parentcode": "FE20",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE20P109",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE20P111",
+          "parentcode": "FE20",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE20P111",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE20P112",
+          "parentcode": "FE20",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE20P112",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE20P113",
+          "parentcode": "FE20",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE20P113",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE20P114",
+          "parentcode": "FE20",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE20P114",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE20P115",
+          "parentcode": "FE20",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE20P115",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE20P116",
+          "parentcode": "FE20",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE20P116",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE20P117",
+          "parentcode": "FE20",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE20P117",
+          "level": "2",
+          "subitems": 0
+        }
+      ]
+    },
+    {
+      "code": "FE31A101",
+      "parentcode": "FE",
+      "name-mr": "",
+      "name-en": "",
+      "count": 1,
+      "name": "FE31A101",
+      "level": "1",
+      "subitems": 0
+    },
+    {
+      "code": "FE-JNNURM",
+      "parentcode": "FE",
+      "name-mr": "JNNURM",
+      "name-en": "JNNURM",
+      "count": 10,
+      "name": "FE-JNNURM",
+      "level": "1",
+      "subitems": 7,
+      "children": [
+        {
+          "code": "FE38A",
+          "parentcode": "FE-JNNURM",
+          "name-mr": "शहरी गरिबांसाठी मुलभूत सुविधा (BSUP) :",
+          "name-en": "BSUP",
+          "count": 4,
+          "name": "FE38A",
+          "level": "2",
+          "subitems": 4,
+          "children": [
+            {
+              "code": "FE38A101",
+              "parentcode": "FE38A",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE38A101",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE38A103",
+              "parentcode": "FE38A",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE38A103",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE38A108",
+              "parentcode": "FE38A",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE38A108",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE38A109",
+              "parentcode": "FE38A",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE38A109",
+              "level": "3",
+              "subitems": 0
+            }
+          ]
+        },
+        {
+          "code": "FE48A101",
+          "parentcode": "FE-JNNURM",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE48A101",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE49A104",
+          "parentcode": "FE-JNNURM",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE49A104",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE49A105",
+          "parentcode": "FE-JNNURM",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE49A105",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE50A103",
+          "parentcode": "FE-JNNURM",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE50A103",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE50A104",
+          "parentcode": "FE-JNNURM",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE50A104",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE50A105",
+          "parentcode": "FE-JNNURM",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE50A105",
+          "level": "2",
+          "subitems": 0
+        }
+      ]
+    },
+    {
+      "code": "FE-SPV",
+      "parentcode": "FE",
+      "name-mr": "सार्वजनिक वाहतूक सुधारणा व विशेष प्रकल्प विभागामार्फत करावयाची कामे",
+      "name-en": "Comprehensive Mobility Plan and special",
+      "count": 21,
+      "name": "FE-SPV",
+      "level": "1",
+      "subitems": 7,
+      "children": [
+        {
+          "code": "FE61A111",
+          "parentcode": "FE-SPV",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE61A111",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE61A118#",
+          "parentcode": "FE-SPV",
+          "name-mr": "सार्वजनिक वाहतूक सुधारणा कामे :- (Comprehensive Mobility Plan)",
+          "name-en": "Comprehensive Mobility Plan",
+          "count": 6,
+          "name": "FE61A118#",
+          "level": "2",
+          "subitems": 6,
+          "children": [
+            {
+              "code": "FE61A118/A-135",
+              "parentcode": "FE61A118#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE61A118/A-135",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE61A118/A-136",
+              "parentcode": "FE61A118#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE61A118/A-136",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE61A118/A-142",
+              "parentcode": "FE61A118#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE61A118/A-142",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE61A118/A-143",
+              "parentcode": "FE61A118#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE61A118/A-143",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE61A118/A-144",
+              "parentcode": "FE61A118#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE61A118/A-144",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE61A118/A-145",
+              "parentcode": "FE61A118#",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE61A118/A-145",
+              "level": "3",
+              "subitems": 0
+            }
+          ]
+        },
+        {
+          "code": "FE61A118-B",
+          "parentcode": "FE-SPV",
+          "name-mr": "पुणे शहरात आवश्यक तेथे भुयारी मार्ग / उड्डाणपूल रेल्वे बांधकाम करणे :- (Non Comprehensive Mobility Plan)",
+          "name-en": "",
+          "count": 7,
+          "name": "FE61A118-B",
+          "level": "2",
+          "subitems": 7,
+          "children": [
+            {
+              "code": "FE61A118/B-101",
+              "parentcode": "FE61A118-B",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE61A118/B-101",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE61A118/B-105",
+              "parentcode": "FE61A118-B",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE61A118/B-105",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE61A118/B-110",
+              "parentcode": "FE61A118-B",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE61A118/B-110",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE61A118/B-111",
+              "parentcode": "FE61A118-B",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE61A118/B-111",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE61A118/B-112",
+              "parentcode": "FE61A118-B",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE61A118/B-112",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE61A118/B-113",
+              "parentcode": "FE61A118-B",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE61A118/B-113",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE61A118/B-114",
+              "parentcode": "FE61A118-B",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE61A118/B-114",
+              "level": "3",
+              "subitems": 0
+            }
+          ]
+        },
+        {
+          "code": "FE61A118-C",
+          "parentcode": "FE-SPV",
+          "name-mr": "",
+          "name-en": "",
+          "count": 4,
+          "name": "FE61A118-C",
+          "level": "2",
+          "subitems": 4,
+          "children": [
+            {
+              "code": "FE61A118/C-105",
+              "parentcode": "FE61A118-C",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE61A118/C-105",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE61A118/C-112",
+              "parentcode": "FE61A118-C",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE61A118/C-112",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE61A118/C-115",
+              "parentcode": "FE61A118-C",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE61A118/C-115",
+              "level": "3",
+              "subitems": 0
+            },
+            {
+              "code": "FE61A118/C-116",
+              "parentcode": "FE61A118-C",
+              "name-mr": "",
+              "name-en": "",
+              "count": 1,
+              "name": "FE61A118/C-116",
+              "level": "3",
+              "subitems": 0
+            }
+          ]
+        },
+        {
+          "code": "FE61A119",
+          "parentcode": "FE-SPV",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE61A119",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE61A123",
+          "parentcode": "FE-SPV",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE61A123",
+          "level": "2",
+          "subitems": 0
+        },
+        {
+          "code": "FE61A127",
+          "parentcode": "FE-SPV",
+          "name-mr": "",
+          "name-en": "",
+          "count": 1,
+          "name": "FE61A127",
+          "level": "2",
+          "subitems": 0
+        }
+      ]
+    }
+  ]
+}
