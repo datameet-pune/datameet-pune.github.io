@@ -1,7 +1,7 @@
 # Maps of Pune Municipal Corporation
 
 ## Electoral Wards/Prabhags
-* [pune.pre-2012.wards.geojson](pune.pre-2012.wards.geojson) : Found it on Google My Maps it showed up in list of related maps. Creator/uploader unknown, but the boundaries match up with a previously obtained map image. References:
+* [pune.pre-2012.wards.geojson](pune.pre-2012.wards.geojson) : Found on Google My Maps : it showed up in list of related maps when seeing something else. Creator/uploader unknown, but the boundaries match up with a previously obtained map image. References:
   * Custom google map <https://www.google.com/maps/d/viewer?mid=zES_Jx2ZzTeI.kkUSUH-dixOM&hl=en>
   * [Map image georeferenced on Mapwarper](http://mapwarper.net/maps/10735#Preview_tab)
 
