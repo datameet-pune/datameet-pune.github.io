@@ -16,7 +16,7 @@
 ----
 
 * [pune.2017.wards.geojson](https://github.com/datameet-pune/datameet-pune.github.io/blob/master/maps/pune.2017.wards.geojson) : Manually created by Nikhil VJ from Datameet Pune chapter in QGIS by tracing over geo-referenced raster PDF published on official PMC website . Metadata contains elected corporator and party information and ward names, compiled and shared by [CEE](http://www.ceeindia.org/) [Pune](https://ourpuneourbudget.in). References:
-  * Map PDF : <http://punecorporation.org/en/final-ward-formation>
+  * Map PDFs : <https://pmc.gov.in/en/electoral-ward> [on archive.org](https://web.archive.org/web/*/https://pmc.gov.in/en/electoral-ward)
 
 ----
 
