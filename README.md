@@ -1,4 +1,4 @@
-We have moved! Please catch us at https://sites.google.com/view/datameetpune/home
+We have moved! Please catch us at [https://sites.google.com/view/datameetpune/home](https://sites.google.com/view/datameetpune/home)
 
 
 ----
